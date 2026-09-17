@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Morning</title>
+  <meta name="theme-color" content="#EAF2F0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="top">
+    <p class="date" id="date">Loading</p>
+    <button class="refresh" id="refresh" type="button" aria-label="Refresh conditions">Refresh</button>
+  </header>
+
+  <!-- Ocean verdict -->
+  <section class="hero" id="hero" aria-live="polite">
+    <div class="verdict">
+      <p class="verdict-word" id="verdict-word">Checking</p>
+      <p class="verdict-why" id="verdict-why">Pulling wave, wind, and alert data.</p>
+    </div>
+    <nav class="places" id="places" aria-label="Locations"></nav>
+    <dl class="stats" id="stats"></dl>
+    <div class="tides" id="tides"></div>
+    <div class="alerts" id="alerts"></div>
+    <p class="source" id="source"></p>
+  </section>
+
+  <!-- Today's workout -->
+  <section class="block" id="workout">
+    <h2>Today</h2>
+    <p class="phase" id="phase"></p>
+    <p class="workout-text" id="workout-text"></p>
+    <p class="workout-note" id="workout-note"></p>
+    <details class="week">
+      <summary>This week</summary>
+      <ol class="week-list" id="week-list"></ol>
+    </details>
+  </section>
+
+  <!-- Week -->
+  <section class="block" id="week">
+    <div class="week-head">
+      <h2 id="week-title">This week</h2>
+      <div class="week-nav">
+        <button type="button" class="quiet" id="week-prev" aria-label="Previous week">Prev</button>
+        <button type="button" class="quiet" id="week-today">Today</button>
+        <button type="button" class="quiet" id="week-next" aria-label="Next week">Next</button>
+      </div>
+    </div>
+    <div class="week-grid" id="week-grid"></div>
+  </section>
+
+  <!-- Google Calendar, month view (optional, set in config.js) -->
+  <section class="block" id="gcal" hidden>
+    <h2>Month</h2>
+    <div class="gcal-wrap"><iframe id="gcal-frame" title="Google Calendar" loading="lazy"></iframe></div>
+  </section>
+
+  <!-- Countdowns -->
+  <section class="block" id="events">
+    <h2>Coming up</h2>
+    <ul class="events" id="events-list"></ul>
+  </section>
+
+  <!-- To do -->
+  <section class="block" id="todo">
+    <h2>To do</h2>
+    <form class="todo-form" id="todo-form">
+      <input id="todo-input" type="text" placeholder="Add something" autocomplete="off" aria-label="New to do">
+      <button type="submit">Add</button>
+    </form>
+    <ul class="todo-list" id="todo-list"></ul>
+    <button class="clear-done" id="clear-done" type="button">Clear finished</button>
+  </section>
+
+  <!-- Quick links -->
+  <section class="block" id="links">
+    <h2>Open</h2>
+    <div class="links" id="links-list"></div>
+  </section>
+
+  <!-- Brainstorm -->
+  <section class="block" id="notes">
+    <h2>Brainstorm</h2>
+    <textarea id="notes-text" rows="5" placeholder="Type a thought, a question, a half formed plan. It stays here until you clear it."></textarea>
+    <div class="notes-actions">
+      <button type="button" id="notes-claude">Send to Claude</button>
+      <button type="button" id="notes-clear" class="quiet">Clear</button>
+    </div>
+  </section>
+
+  <!-- News -->
+  <section class="block" id="news">
+    <h2>NPR</h2>
+    <p class="news-updated" id="news-updated"></p>
+    <div id="news-list"></div>
+  </section>
+
+  <footer class="foot">
+    <p>Conditions from Open-Meteo, NOAA tides, and the National Weather Service. Headlines from NPR. Nothing here is stored anywhere but this browser.</p>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="calendar.js"></script>
+  <script src="schedule.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
