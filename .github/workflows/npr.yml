@@ -5,6 +5,7 @@ on:
     - cron: "15 10 * * *"   # 10:15 UTC, about 6:15 am Eastern
   workflow_dispatch:
 
+# The repo must also allow this: Settings, Actions, General, Workflow permissions, "Read and write permissions".
 permissions:
   contents: write
 
@@ -23,4 +24,5 @@ jobs:
           git config user.email "npr-bot@users.noreply.github.com"
           git add data/npr.json
           git diff --cached --quiet || git commit -m "Update NPR headlines"
+          git pull --rebase
           git push

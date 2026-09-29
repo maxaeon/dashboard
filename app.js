@@ -237,8 +237,6 @@ function renderWeek() {
   const names = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
   $("week-title").textContent = weekOffset === 0 ? "This week" : `${mon.toLocaleDateString(undefined, { month: "short", day: "numeric" })} to ${sun.toLocaleDateString(undefined, { month: "short", day: "numeric" })}`;
 
-  const trainingWeek = CALENDAR.find((w) => w.start === ymdOf(mon));
-
   const html = [];
   for (let i = 0; i < 7; i++) {
     const d = new Date(mon); d.setDate(mon.getDate() + i);
@@ -253,7 +251,6 @@ function renderWeek() {
     }
     SCHEDULE.dates.filter((x) => x.date === ymd).forEach((x) => items.push({ kind: "irsc", text: x.name }));
     CONFIG.events.filter((e) => e.date === ymd).forEach((e) => items.push({ kind: "event", text: e.name }));
-    if (trainingWeek) items.push({ kind: "train", text: trainingWeek.days[i] });
     html.push(`<div class="day ${ymd === todayYmd ? "today" : ""} ${closed ? "closed" : ""}">
       <p class="day-name">${names[i]}<small>${d.toLocaleDateString(undefined, { month: "short", day: "numeric" })}</small></p>
       <ul>${items.map((it) => `<li class="${it.kind}">${it.text}</li>`).join("") || "<li><span>Nothing scheduled</span></li>"}</ul>
@@ -343,18 +340,32 @@ function initNotes() {
   const ta = $("notes-text");
   ta.value = localStorage.getItem(NOTES_KEY) || "";
   ta.addEventListener("input", () => localStorage.setItem(NOTES_KEY, ta.value));
-  $("notes-claude").addEventListener("click", () => {
-    const q = ta.value.trim() || "Help me brainstorm.";
-    window.open(`https://claude.ai/new?q=${encodeURIComponent(q)}`, "_blank", "noopener");
-  });
   $("notes-clear").addEventListener("click", () => { ta.value = ""; localStorage.removeItem(NOTES_KEY); });
 }
 
 /* ---------- News ---------- */
+/* Two routes to the headlines. First the file the GitHub Action writes (no third party involved).
+   If that file is empty or stale, the browser pulls the feeds itself through a public RSS to JSON
+   relay, so the section works even when the Action has not run. */
+async function fetchFeedDirect(id, name) {
+  const url = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(`https://feeds.npr.org/${id}/rss.xml`)}`;
+  const j = await fetchJson(url);
+  if (!j || j.status !== "ok") return { id, name, items: [] };
+  return { id, name, items: (j.items || []).slice(0, 8).map((it) => ({
+    title: it.title || "", link: it.link || "",
+    description: (it.description || "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim().slice(0, 180),
+  })) };
+}
 async function loadNews() {
-  const data = await fetchJson("data/npr.json?" + Date.now());
-  if (!data || !(data.feeds || []).length) {
-    $("news-list").innerHTML = `<p class="error">No headlines yet. The GitHub Action writes data/npr.json once a day; run it once from the Actions tab.</p>`;
+  let data = await fetchJson("data/npr.json?" + Date.now());
+  const hours = data && data.updated ? (Date.now() - new Date(data.updated).getTime()) / 36e5 : Infinity;
+  const usable = data && (data.feeds || []).some((f) => (f.items || []).length) && hours < 36;
+  if (!usable) {
+    const feeds = await Promise.all(CONFIG.npr.map((f) => fetchFeedDirect(f.id, f.name)));
+    data = { updated: new Date().toISOString(), feeds, live: true };
+  }
+  if (!(data.feeds || []).some((f) => (f.items || []).length)) {
+    $("news-list").innerHTML = `<p class="error">Headlines are not loading. The GitHub Action has not written data/npr.json (check the Actions tab and the workflow permissions) and the live feed relay did not answer.</p>`;
     return;
   }
   $("news-updated").textContent = data.updated ? `Updated ${new Date(data.updated).toLocaleString(undefined, { weekday: "short", hour: "numeric", minute: "2-digit" })}` : "";
