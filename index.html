@@ -17,17 +17,28 @@
     <button class="refresh" id="refresh" type="button" aria-label="Refresh conditions">Refresh</button>
   </header>
 
-  <!-- Ocean verdict -->
+  <div class="layout">
+  <div class="main-col">
+
+  <!-- Water conditions and verdict -->
   <section class="hero" id="hero" aria-live="polite">
-    <div class="verdict">
-      <p class="verdict-word" id="verdict-word">Checking</p>
-      <p class="verdict-why" id="verdict-why">Pulling wave, wind, and alert data.</p>
+    <img class="hero-img" id="hero-img" alt="" hidden>
+    <div class="hero-body">
+      <div class="day-nav">
+        <button type="button" class="quiet" id="day-prev" aria-label="Previous day">Prev</button>
+        <p class="day-label" id="day-label">Today</p>
+        <button type="button" class="quiet" id="day-next" aria-label="Next day">Next</button>
+      </div>
+      <div class="verdict">
+        <p class="verdict-word" id="verdict-word">Checking</p>
+        <p class="verdict-why" id="verdict-why">Pulling wave, wind, and alert data.</p>
+      </div>
+      <nav class="places" id="places" aria-label="Locations"></nav>
+      <dl class="stats" id="stats"></dl>
+      <div class="tides" id="tides"></div>
+      <div class="alerts" id="alerts"></div>
+      <p class="source" id="source"></p>
     </div>
-    <nav class="places" id="places" aria-label="Locations"></nav>
-    <dl class="stats" id="stats"></dl>
-    <div class="tides" id="tides"></div>
-    <div class="alerts" id="alerts"></div>
-    <p class="source" id="source"></p>
   </section>
 
   <!-- Today's workout -->
@@ -37,7 +48,7 @@
     <p class="workout-text" id="workout-text"></p>
     <p class="workout-note" id="workout-note"></p>
     <details class="week">
-      <summary>This week</summary>
+      <summary>This week's training</summary>
       <ol class="week-list" id="week-list"></ol>
     </details>
   </section>
@@ -61,6 +72,24 @@
     <div class="gcal-wrap"><iframe id="gcal-frame" title="Google Calendar" loading="lazy"></iframe></div>
   </section>
 
+  <!-- News -->
+  <section class="block" id="news">
+    <h2>NPR</h2>
+    <p class="news-updated" id="news-updated"></p>
+    <div id="news-list"></div>
+  </section>
+
+  </div><!-- /main-col -->
+
+  <aside class="side-col">
+
+  <!-- Reading -->
+  <section class="block" id="reading">
+    <h2>Today's reading</h2>
+    <p class="reading-title"><a id="reading-link" href="#" target="_blank" rel="noopener"></a></p>
+    <p class="reading-sub">From the Stanford Encyclopedia of Philosophy. A new entry each day.</p>
+  </section>
+
   <!-- Countdowns -->
   <section class="block" id="events">
     <h2>Coming up</h2>
@@ -81,6 +110,7 @@
   <!-- Quick links -->
   <section class="block" id="links">
     <h2>Open</h2>
+    <p class="mail-row"><a href="https://mail.google.com/" target="_blank" rel="noopener">Gmail</a> <a href="https://outlook.office.com/mail/" target="_blank" rel="noopener">IRSC email</a></p>
     <div class="links" id="links-list"></div>
   </section>
 
@@ -94,12 +124,8 @@
     </div>
   </section>
 
-  <!-- News -->
-  <section class="block" id="news">
-    <h2>NPR</h2>
-    <p class="news-updated" id="news-updated"></p>
-    <div id="news-list"></div>
-  </section>
+  </aside><!-- /side-col -->
+  </div><!-- /layout -->
 
   <footer class="foot">
     <p>Conditions from Open-Meteo, NOAA tides, and the National Weather Service. Headlines from NPR. Nothing here is stored anywhere but this browser.</p>
@@ -108,6 +134,7 @@
   <script src="config.js"></script>
   <script src="calendar.js"></script>
   <script src="schedule.js"></script>
+  <script src="reading.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

@@ -14,7 +14,11 @@ A one page morning check: swim or stay out, today's workout, countdowns to regis
 
 - `config.js` holds the locations, the swim rule, events, and links. The MSF fundraiser link goes in two places there, marked PASTE.
 - `calendar.js` holds the training plan. Edit any day.
-- `schedule.js` holds the class schedule, office hours, and the IRSC fall 2026 closed days and deadlines. Update it each term.
+- `sep.js` holds the list of Stanford Encyclopedia entries for the daily reading. One is chosen per day.
+- `images/` holds three pictures for the top of the page, calm.jpg, moderate.jpg, and rough.jpg, shown by condition. Paths are in `config.js`.
+- `reading.js` holds the list of Stanford Encyclopedia entries. One is picked each day by the date.
+- `schedule.js` holds one entry per term (fall 2026 and spring 2027 are in), each with its own class and office hour blocks, plus closed days and deadlines. Spring 2027 term dates and spring break are placeholders until IRSC posts the calendar.
+- The Transition log link in `config.js` is marked PASTE. Put the Google Doc share link there.
 - To show your Google Calendar month view, paste its embed URL into `googleCalendarEmbed` in `config.js`. Google Calendar, Settings, choose the calendar, Integrate calendar, copy the public URL. A private calendar shows only while you are signed in to Google in the same browser.
 - To add an NPR section, add its feed id to both `config.js` and `scripts/fetch_npr.py`. Ids are at https://www.npr.org/rss/.
 

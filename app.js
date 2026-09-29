@@ -6,6 +6,7 @@ const M_TO_FT = 3.28084;
 const KMH_TO_MPH = 0.621371;
 
 let currentLocation = CONFIG.locations[0];
+let dayOffset = 0; // -1 yesterday, 0 today, up to +6
 
 /* ---------- Date header ---------- */
 function showDate() {
@@ -44,11 +45,21 @@ async function loadConditions() {
   $("alerts").innerHTML = "";
   $("source").textContent = "";
 
-  const today = new Date();
-  const ymd = today.toISOString().slice(0, 10);
+  const now = new Date();
+  const target = new Date(now.getFullYear(), now.getMonth(), now.getDate() + dayOffset);
+  const ymd = ymdOf(target);
+  const isToday = dayOffset === 0;
+  $("day-label").textContent = isToday ? "Today" : dayOffset === -1 ? "Yesterday" : dayOffset === 1 ? "Tomorrow" : target.toLocaleDateString(undefined, { weekday: "long" });
+  $("day-prev").disabled = dayOffset <= -1;
+  $("day-next").disabled = dayOffset >= 6;
 
-  const marineUrl = `https://marine-api.open-meteo.com/v1/marine?latitude=${loc.lat}&longitude=${loc.lon}&hourly=wave_height,wave_period,sea_surface_temperature&timezone=auto&forecast_days=1`;
-  const weatherUrl = `https://api.open-meteo.com/v1/forecast?latitude=${loc.lat}&longitude=${loc.lon}&hourly=wind_speed_10m,wind_direction_10m,temperature_2m,precipitation_probability&daily=sunrise,sunset&timezone=auto&forecast_days=1`;
+  // Hourly arrays cover yesterday plus seven days. Day index 0 is yesterday.
+  const dayIdx = dayOffset + 1;
+  const hourSlice = (arr) => (arr || []).slice(dayIdx * 24, dayIdx * 24 + 24);
+  const nowHour = isToday ? now.getHours() : 12;
+
+  const marineUrl = `https://marine-api.open-meteo.com/v1/marine?latitude=${loc.lat}&longitude=${loc.lon}&hourly=wave_height,wave_period,sea_surface_temperature&timezone=auto&past_days=1&forecast_days=7`;
+  const weatherUrl = `https://api.open-meteo.com/v1/forecast?latitude=${loc.lat}&longitude=${loc.lon}&hourly=wind_speed_10m,wind_direction_10m,temperature_2m,precipitation_probability&daily=sunrise,sunset&timezone=auto&past_days=1&forecast_days=7`;
   const alertsUrl = `https://api.weather.gov/alerts/active?point=${loc.lat},${loc.lon}`;
   const tideUrl = loc.tideStation
     ? `https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=predictions&application=morning&begin_date=${ymd.replace(/-/g, "")}&end_date=${ymd.replace(/-/g, "")}&datum=MLLW&station=${loc.tideStation}&time_zone=lst_ldt&units=english&interval=hilo&format=json`
@@ -57,24 +68,25 @@ async function loadConditions() {
   const [marine, weather, alerts, tides] = await Promise.all([
     fetchJson(marineUrl),
     fetchJson(weatherUrl),
-    fetchJson(alertsUrl, { headers: { Accept: "application/geo+json" } }),
+    isToday ? fetchJson(alertsUrl, { headers: { Accept: "application/geo+json" } }) : Promise.resolve({ features: [] }),
     tideUrl ? fetchJson(tideUrl) : Promise.resolve(null),
   ]);
 
-  // Daytime window, 7 am to 7 pm local
-  const day = (arr) => (arr || []).slice(7, 20).filter((v) => v !== null && v !== undefined);
+  // Daytime window, 7 am to 7 pm local, for the chosen day
+  const day = (arr) => hourSlice(arr).slice(7, 20).filter((v) => v !== null && v !== undefined);
+  const at = (arr) => hourSlice(arr)[nowHour];
 
   const waveFtArr = day(marine?.hourly?.wave_height).map((m) => m * M_TO_FT);
   const waveMax = waveFtArr.length ? Math.max(...waveFtArr) : null;
-  const waveNow = marine?.hourly?.wave_height?.[today.getHours()];
-  const period = marine?.hourly?.wave_period?.[today.getHours()];
-  const sst = marine?.hourly?.sea_surface_temperature?.[today.getHours()];
+  const waveNow = at(marine?.hourly?.wave_height);
+  const period = at(marine?.hourly?.wave_period);
+  const sst = at(marine?.hourly?.sea_surface_temperature);
 
   const windArr = day(weather?.hourly?.wind_speed_10m).map((k) => k * KMH_TO_MPH);
   const windMax = windArr.length ? Math.max(...windArr) : null;
-  const windNow = weather?.hourly?.wind_speed_10m?.[today.getHours()];
-  const windDir = weather?.hourly?.wind_direction_10m?.[today.getHours()];
-  const airNow = weather?.hourly?.temperature_2m?.[today.getHours()];
+  const windNow = at(weather?.hourly?.wind_speed_10m);
+  const windDir = at(weather?.hourly?.wind_direction_10m);
+  const airNow = at(weather?.hourly?.temperature_2m);
   const rainArr = day(weather?.hourly?.precipitation_probability);
   const rainMax = rainArr.length ? Math.max(...rainArr) : null;
 
@@ -101,24 +113,30 @@ async function loadConditions() {
     verdict = "care"; word = "Swim close";
     why = `Waves around ${waveMax.toFixed(1)} ft. Fine for a shore swim, but stay where you can stand and check the flag.`;
   } else {
-    verdict = "go"; word = loc.ocean ? "Swim" : "Go";
+    verdict = "go"; word = loc.ocean ? "Swim" : "Calm";
     why = loc.ocean
       ? `Waves under ${Math.max(1, Math.round(waveMax || 0))} ft and light wind. A good day for the distance swim.`
-      : `Calm water and light wind at ${loc.place}.`;
+      : `Light wind and small waves at ${loc.place}.`;
   }
-  if (!loc.ocean && waveMax === null) {
-    // Lakes: marine model often has no wave data. Judge on wind alone.
-    if (windMax !== null && windMax > rule.maxWindMph) { verdict = "care"; word = "Choppy"; why = `Wind up to ${Math.round(windMax)} mph. Expect chop at ${loc.place}.`; }
-    else if (windMax !== null) { verdict = "go"; word = "Calm"; why = `Light wind at ${loc.place}. No wave model for the lakes, so judge the water when you get there.`; }
+  if (!loc.ocean) {
+    // Lakes use the same words whether or not the wave model has data for that spot.
+    if (verdict === "stop") word = "Rough";
+    else if (verdict === "care") word = "Choppy";
+    else if (verdict === "go") word = "Calm";
+    if (waveMax === null && windMax !== null) why = `Wind up to ${Math.round(windMax)} mph at ${loc.place}. No wave model here, so judge the water when you arrive.`;
   }
   hero.dataset.verdict = verdict;
+  const img = $("hero-img");
+  const src = verdict && CONFIG.images ? CONFIG.images[verdict] : "";
+  if (src) { img.hidden = false; img.src = src; img.onerror = () => { img.hidden = true; }; } else { img.hidden = true; img.removeAttribute("src"); }
   $("verdict-word").textContent = word;
   $("verdict-why").textContent = why;
 
   // Stats
   const stats = [];
-  if (waveNow !== null && waveNow !== undefined) stats.push(["Waves now", `${(waveNow * M_TO_FT).toFixed(1)}<small>ft</small>`]);
-  if (waveMax !== null) stats.push(["Waves today", `${waveMax.toFixed(1)}<small>ft max</small>`]);
+  const nowLabel = isToday ? "now" : "midday";
+  if (waveNow !== null && waveNow !== undefined) stats.push([`Waves ${nowLabel}`, `${(waveNow * M_TO_FT).toFixed(1)}<small>ft</small>`]);
+  if (waveMax !== null) stats.push([isToday ? "Waves today" : "Waves, max", `${waveMax.toFixed(1)}<small>ft max</small>`]);
   if (windNow !== null && windNow !== undefined) stats.push(["Wind", `${Math.round(windNow * KMH_TO_MPH)}<small>mph ${compass(windDir)}</small>`]);
   if (sst !== null && sst !== undefined) stats.push(["Water", `${Math.round(cToF(sst))}<small>°F</small>`]);
   if (airNow !== null && airNow !== undefined) stats.push(["Air", `${Math.round(cToF(airNow))}<small>°F</small>`]);
@@ -137,20 +155,22 @@ async function loadConditions() {
   } else if (loc.tideStation) {
     $("tides").innerHTML = `<span class="tide-note">Tide predictions did not load.</span>`;
   }
-  if (weather?.daily?.sunrise?.[0]) {
-    $("tides").innerHTML += `<span class="tide-note">Sunrise ${fmtTime(weather.daily.sunrise[0].slice(11))}, sunset ${fmtTime(weather.daily.sunset[0].slice(11))}</span>`;
+  if (weather?.daily?.sunrise?.[dayIdx]) {
+    $("tides").innerHTML += `<span class="tide-note">Sunrise ${fmtTime(weather.daily.sunrise[dayIdx].slice(11))}, sunset ${fmtTime(weather.daily.sunset[dayIdx].slice(11))}</span>`;
   }
 
   // Alerts
   if (beachAlerts.length) {
     $("alerts").innerHTML = beachAlerts.map((a) => `<div class="alert ${/rip current|high surf/i.test(a.event) ? "" : "mild"}"><b>${a.event}</b> until ${a.ends ? new Date(a.ends).toLocaleString(undefined, { weekday: "short", hour: "numeric" }) : "further notice"}. ${a.headline || ""}</div>`).join("");
+  } else if (!isToday) {
+    $("alerts").innerHTML = "";
   } else if (loc.ocean && alerts) {
     $("alerts").innerHTML = `<div class="alert mild" style="border-left-color: var(--go); background: rgba(47,143,107,0.08)">No rip current or surf statements from the National Weather Service right now.</div>`;
   } else if (loc.ocean) {
     $("alerts").innerHTML = `<div class="alert mild">Could not reach the National Weather Service alerts feed. Check the flag when you arrive.</div>`;
   }
 
-  $("source").textContent = `Checked ${today.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" })}. Forecasts are for the open coast near ${loc.place}. The flag at the lifeguard stand wins.`;
+  $("source").textContent = `${isToday ? "Checked " + now.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }) : target.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" })}. Forecasts are for the open coast near ${loc.place}. The flag at the lifeguard stand wins.`;
 }
 
 async function fetchJson(url, opts = {}) {
@@ -223,12 +243,12 @@ function renderWeek() {
   for (let i = 0; i < 7; i++) {
     const d = new Date(mon); d.setDate(mon.getDate() + i);
     const ymd = ymdOf(d);
-    const inTerm = ymd >= SCHEDULE.term.start && ymd <= SCHEDULE.term.end;
+    const term = SCHEDULE.terms.find((t) => ymd >= t.start && ymd <= t.end);
     const closed = closedOn(ymd);
     const items = [];
     if (closed) items.push({ kind: "holiday", text: closed.name });
-    if (inTerm && !closed) {
-      SCHEDULE.weekly.filter((b) => b.days.includes(i)).forEach((b) =>
+    if (term && !closed) {
+      term.weekly.filter((b) => b.days.includes(i)).forEach((b) =>
         items.push({ kind: b.kind, text: `<b>${fmtClock(b.start)} to ${fmtClock(b.end)}</b> ${b.name}${b.where ? ` <span>${b.where}</span>` : ""}` }));
     }
     SCHEDULE.dates.filter((x) => x.date === ymd).forEach((x) => items.push({ kind: "irsc", text: x.name }));
@@ -345,6 +365,16 @@ async function loadNews() {
     </div>`).join("");
 }
 
+/* ---------- Reading ---------- */
+function loadReading() {
+  const d = new Date();
+  const dayNum = Math.floor(new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime() / 86400000);
+  const [slug, title] = SEP[dayNum % SEP.length];
+  const a = $("reading-link");
+  a.href = `https://plato.stanford.edu/entries/${slug}/`;
+  a.textContent = title;
+}
+
 /* ---------- Start ---------- */
 function init() {
   const saved = localStorage.getItem("morning.location");
@@ -359,7 +389,10 @@ function init() {
   initTodos();
   loadLinks();
   initNotes();
+  loadReading();
   loadNews();
   $("refresh").addEventListener("click", loadConditions);
+  $("day-prev").addEventListener("click", () => { dayOffset = Math.max(-1, dayOffset - 1); loadConditions(); });
+  $("day-next").addEventListener("click", () => { dayOffset = Math.min(6, dayOffset + 1); loadConditions(); });
 }
 document.addEventListener("DOMContentLoaded", init);

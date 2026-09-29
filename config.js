@@ -12,6 +12,14 @@ const CONFIG = {
     { id: "traversecity", name: "Traverse City", place: "Grand Traverse Bay", lat: 44.7631, lon: -85.6206, tideStation: null, ocean: false },
   ],
 
+  // Pictures for the top of the page, by condition. Put the files in images/.
+  // Leave a path empty to show no picture for that condition.
+  images: {
+    go: "images/calm.jpg",
+    care: "images/moderate.jpg",
+    stop: "images/rough.jpg",
+  },
+
   // The swim rule. Waves in feet.
   swimRule: { maxWaveFt: 3, maxWindMph: 15 },
 
@@ -20,7 +28,9 @@ const CONFIG = {
     { name: "Gobbler Half Marathon", date: "2026-11-14", place: "Lakewood Park, Fort Pierce" },
     { name: "Game On Sprint Triathlon", date: "2026-12-06", place: "Jetty Park, 7:25 am start", link: "https://runsignup.com/Race/FL/FortPierce/GameOnTriathlon", fundraiser: "PASTE_YOUR_MSF_FUNDRAISER_LINK_HERE" },
     { name: "MammothMarch Northeast Florida", date: "2027-01-30", place: "Dunns Creek State Park, 20 miles" },
+    { name: "IAPS abstract due (check exact date)", date: "2027-01-31", place: "Transitions paper, Banff conference Sept 15 to 18, 2027" },
   ],
+
 
   // Google Calendar month view. Paste the embed URL from Google Calendar:
   // Settings, pick the calendar, Integrate calendar, copy the "Public URL to this calendar" or the src from the embed code.
@@ -32,13 +42,13 @@ const CONFIG = {
   links: [
     { name: "Google Docs", url: "https://docs.google.com/document/u/0/" },
     { name: "Google Drive", url: "https://drive.google.com/" },
-    { name: "Gmail", url: "https://mail.google.com/" },
     { name: "Canvas (IRSC)", url: "https://irsc.instructure.com/" },
     // { name: "Canvas (Mott)", url: "https://mcc.instructure.com/" },
     { name: "Samsung Health", url: "https://www.samsung.com/us/apps/samsung-health/" },
     { name: "Claude", url: "https://claude.ai/new" },
     { name: "GitHub", url: "https://github.com/" },
     { name: "MSF fundraiser", url: "PASTE_YOUR_MSF_FUNDRAISER_LINK_HERE" },
+    { name: "Transition log", url: "PASTE_YOUR_GOOGLE_DOC_LINK_HERE" },
     { name: "Windfinder Fort Pierce", url: "https://www.windfinder.com/forecast/fort_pierce_inlet" },
     { name: "NWS surf forecast", url: "https://www.weather.gov/mlb/surf" },
   ],
