@@ -1,1 +1,143 @@
-{"updated": null, "feeds": []}
+{
+  "updated": "2026-09-30T16:24:13.422354+00:00",
+  "feeds": [
+    {
+      "id": "1001",
+      "name": "Top stories",
+      "items": [
+        {
+          "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+          "description": "Zanny Minton Beddoes, The Economist's editor in chief, just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to m"
+        },
+        {
+          "title": "How Trump keeps undercutting his anti-communist message",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
+          "description": "The Trump administration has taken government equity stakes in more than three dozen private companies."
+        },
+        {
+          "title": "After failed execution, health workers say Tennessee's method flouts medical ethics",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
+          "description": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn't help with executions, no matter the met"
+        },
+        {
+          "title": "Israel says a flydubai pilot tried to crash a plane of mostly Israeli passengers",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+          "description": "\"As the plane was approaching Israel, one of the pilots stabbed the other pilot and tried to crash the plane with everyone on board,\" but a passenger and crew member broke into the"
+        },
+        {
+          "title": "FBI hunting the hackers who stole its employees' sensitive data",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
+          "description": "The FBI says it's addressing a massive data breach, vowing to go after the hackers it believes are responsible."
+        },
+        {
+          "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+          "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+          "description": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country dep"
+        },
+        {
+          "title": "Travel plans? Here's what to know as measles exposures reach trains and games",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
+          "description": "Measles is traveling, with outbreaks in Pennsylvania, Ohio and New York, and exposures on transportation and in sports. What should you know before getting on a plane or train?"
+        },
+        {
+          "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+          "description": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project."
+        }
+      ]
+    },
+    {
+      "id": "1007",
+      "name": "Science",
+      "items": [
+        {
+          "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+          "description": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project."
+        },
+        {
+          "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
+          "description": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a "
+        },
+        {
+          "title": "Historic science museum in Philadelphia to close",
+          "link": "https://www.npr.org/2026/09/29/nx-s1-5983851/historic-science-museum-in-philadelphia-to-close",
+          "description": "Philadelphia's Academy of Natural Sciences is set to close down thanks to financial pressures. The 198-year-old museum houses important scientific specimens and a beloved dinosaur "
+        },
+        {
+          "title": "This year's MacArthur Fellows include researchers who fuse science and justice",
+          "link": "https://www.npr.org/2026/09/29/nx-s1-5983444/this-years-macarthur-fellows-include-researchers-who-fuse-science-and-justice",
+          "description": "The MacArthur Foundation has just announced its latest batch of 20 fellows. Among the recipients of the $800,000 \"no-strings-attached\" fellowships are researchers who were recogniz"
+        },
+        {
+          "title": "Meet the 20 scholars and artists who've just won MacArthur Fellowships",
+          "link": "https://www.npr.org/2026/09/29/nx-s1-5980447/macarthur-genius-grants-2026-fellows",
+          "description": "A historian who studies wage gaps between races and a saxophonist whose live performances include a chef are among the latest recipients of the philanthropic group's annual, no-str"
+        },
+        {
+          "title": "The Trump administration weakens fuel efficiency standards for new cars",
+          "link": "https://www.npr.org/2026/09/28/nx-s1-5918509/car-fuel-efficiency-cafe-standards-rollback",
+          "description": "The Trump administration says easing these standards will make cars more affordable. Critics say it's not so simple and could be costly for the environment."
+        },
+        {
+          "title": "SpaceX's Starship launches on first orbital mission from Texas",
+          "link": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
+          "description": "Starship is key to SpaceX's commercial success and NASA's plans to land humans on the moon. This is the 14th flight of the uncrewed Starship, but the first time it reached orbit."
+        },
+        {
+          "title": "How to limit the rat numbers? Train the humans",
+          "link": "https://www.npr.org/2026/09/28/nx-s1-5980436/rats-dc-new-york-rangers",
+          "description": "D.C.'s Rat Rangers take anyone who is interested on night time safaris through some of the Capitol's filthiest back alleys to learn the way of the rats, and to be better humans."
+        }
+      ]
+    },
+    {
+      "id": "1128",
+      "name": "Health",
+      "items": [
+        {
+          "title": "After failed execution, health workers say Tennessee's method flouts medical ethics",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
+          "description": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn't help with executions, no matter the met"
+        },
+        {
+          "title": "Travel plans? Here's what to know as measles exposures reach trains and games",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
+          "description": "Measles is traveling, with outbreaks in Pennsylvania, Ohio and New York, and exposures on transportation and in sports. What should you know before getting on a plane or train?"
+        },
+        {
+          "title": "What's behind HHS claims that gender-affirming care 'may' radicalize",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
+          "description": "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate "
+        },
+        {
+          "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
+          "description": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a "
+        },
+        {
+          "title": "Montana starts enforcing Medicaid work requirements on Oct 1. Patients are confused",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5946766/montana-early-medicaid-work-requirements-patients-confused",
+          "description": "In most states, people with Medicaid coverage will have to prove they're working, volunteering or studying, starting Jan. 1. But Montana is starting that early, and it's sowing con"
+        },
+        {
+          "title": "They were promised protection. Instead, these kids with disabilities died in foster care",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5534203/foster-care-disabilities-children-bad-outcomes",
+          "description": "Disabled kids make up the largest group in foster care. They have the worst outcomes. They stay in foster care longest. They're the most likely to die."
+        },
+        {
+          "title": "Rural voters support MAHA movement, but feel little impact, poll finds",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5980339/rural-voters-support-maha-movement-but-feel-little-impact-poll-finds",
+          "description": "A new poll from KFF-AP shows that rural voters support the Make America Healthy Again movement, but they don't think it's had a positive impact on their lives."
+        },
+        {
+          "title": "This startup wants to prove gene-editing embryos is safe for making healthy babies",
+          "link": "https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech",
+          "description": "Origin Genomics aims to prove that the potential benefits of its technology for editing disease-causing genes in human embryos outweigh the risks."
+        }
+      ]
+    }
+  ]
+}
