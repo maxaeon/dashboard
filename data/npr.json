@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-30T16:24:13.422354+00:00",
+  "updated": "2026-10-01T17:01:53.151564+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "How Ukrainians are coping with new, more deadly Russian attacks",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
-          "description": "Zanny Minton Beddoes, The Economist's editor in chief, just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to m"
+          "title": "AI data centers: How much are ratepayers on the hook for?",
+          "link": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
+          "description": "Data centers consume large amounts of power and require upgrading infrastructure. But it's difficult to determine how much residential customers benefit and how much they actually "
         },
         {
-          "title": "How Trump keeps undercutting his anti-communist message",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
-          "description": "The Trump administration has taken government equity stakes in more than three dozen private companies."
+          "title": "Cornell Jane Doe's attorney says she told police in 2024: 'I was raped'",
+          "link": "https://www.npr.org/2026/10/01/nx-s1-5987703/cornell-fraternity-rape-case-updates",
+          "description": "Counter to what a local prosecutor has claimed, the alleged victim of a 2024 gang rape at Cornell University clearly said in her police statement that she was sexually assaulted, h"
         },
         {
-          "title": "After failed execution, health workers say Tennessee's method flouts medical ethics",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
-          "description": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn't help with executions, no matter the met"
+          "title": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
+          "link": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
+          "description": "The crew of four \u2014 two NASA astronauts, one from Canada, and a Russian cosmonaut \u2014 heads to the International Space Station after liftoff from the Cape Canaveral Space Force Statio"
         },
         {
-          "title": "Israel says a flydubai pilot tried to crash a plane of mostly Israeli passengers",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
-          "description": "\"As the plane was approaching Israel, one of the pilots stabbed the other pilot and tried to crash the plane with everyone on board,\" but a passenger and crew member broke into the"
+          "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+          "link": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+          "description": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure a"
         },
         {
-          "title": "FBI hunting the hackers who stole its employees' sensitive data",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
-          "description": "The FBI says it's addressing a massive data breach, vowing to go after the hackers it believes are responsible."
+          "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+          "link": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+          "description": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data."
         },
         {
-          "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
-          "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
-          "description": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country dep"
+          "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
+          "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
+          "description": "President Lula promised Brazilians four years ago they'd be able to afford picanha again. Now, as he seeks another term, the price of the country's favorite cut of beef is telling "
         },
         {
-          "title": "Travel plans? Here's what to know as measles exposures reach trains and games",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
-          "description": "Measles is traveling, with outbreaks in Pennsylvania, Ohio and New York, and exposures on transportation and in sports. What should you know before getting on a plane or train?"
+          "title": "En esta ciudad de Pensilvania, los dos partidos pol\u00edticos buscan el voto latino",
+          "link": "https://www.npr.org/2026/10/01/g-s1-145488/en-esta-ciudad-de-pensilvania-los-dos-partidos-politicos-buscan-el-voto-latino",
+          "description": "Los republicanos lograron avances con los latinos en el \u00faltimo ciclo electoral, pero la econom\u00eda y la frustraci\u00f3n por la pol\u00edtica migratoria de Donald Trump han corro\u00eddo ese apoyo."
         },
         {
-          "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
-          "description": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project."
+          "title": "COMIC: How the census gives your state power (and what Trump wants to change)",
+          "link": "https://www.npr.org/2026/10/01/nx-s1-5983684/trump-2030-census-overhaul-changes",
+          "description": "The census is used to determine how much say your state has in Congress and the Electoral College. President Trump failed to alter it during his first term, but he's trying again a"
         }
       ]
     },
@@ -51,6 +51,11 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
+          "link": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
+          "description": "The crew of four \u2014 two NASA astronauts, one from Canada, and a Russian cosmonaut \u2014 heads to the International Space Station after liftoff from the Cape Canaveral Space Force Statio"
+        },
         {
           "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
           "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
@@ -85,11 +90,6 @@
           "title": "SpaceX's Starship launches on first orbital mission from Texas",
           "link": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
           "description": "Starship is key to SpaceX's commercial success and NASA's plans to land humans on the moon. This is the 14th flight of the uncrewed Starship, but the first time it reached orbit."
-        },
-        {
-          "title": "How to limit the rat numbers? Train the humans",
-          "link": "https://www.npr.org/2026/09/28/nx-s1-5980436/rats-dc-new-york-rangers",
-          "description": "D.C.'s Rat Rangers take anyone who is interested on night time safaris through some of the Capitol's filthiest back alleys to learn the way of the rats, and to be better humans."
         }
       ]
     },
@@ -97,6 +97,11 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "Trump administration reverses stance on integration of people with disabilities",
+          "link": "https://www.npr.org/2026/10/01/nx-s1-5981375/integration-mandate-disabilities-reversed-trump",
+          "description": "Disability rights advocates are angered by the latest reversal but are rallying behind proposed legislation and working with states to strengthen protections for community integrat"
+        },
         {
           "title": "After failed execution, health workers say Tennessee's method flouts medical ethics",
           "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
@@ -113,14 +118,14 @@
           "description": "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate "
         },
         {
-          "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
-          "description": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a "
-        },
-        {
           "title": "Montana starts enforcing Medicaid work requirements on Oct 1. Patients are confused",
           "link": "https://www.npr.org/2026/09/30/nx-s1-5946766/montana-early-medicaid-work-requirements-patients-confused",
           "description": "In most states, people with Medicaid coverage will have to prove they're working, volunteering or studying, starting Jan. 1. But Montana is starting that early, and it's sowing con"
+        },
+        {
+          "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
+          "description": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a "
         },
         {
           "title": "They were promised protection. Instead, these kids with disabilities died in foster care",
@@ -131,11 +136,6 @@
           "title": "Rural voters support MAHA movement, but feel little impact, poll finds",
           "link": "https://www.npr.org/2026/09/30/nx-s1-5980339/rural-voters-support-maha-movement-but-feel-little-impact-poll-finds",
           "description": "A new poll from KFF-AP shows that rural voters support the Make America Healthy Again movement, but they don't think it's had a positive impact on their lives."
-        },
-        {
-          "title": "This startup wants to prove gene-editing embryos is safe for making healthy babies",
-          "link": "https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech",
-          "description": "Origin Genomics aims to prove that the potential benefits of its technology for editing disease-causing genes in human embryos outweigh the risks."
         }
       ]
     }
