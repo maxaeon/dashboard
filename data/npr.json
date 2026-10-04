@@ -1,10 +1,40 @@
 {
-  "updated": "2026-10-03T14:42:49.122520+00:00",
+  "updated": "2026-10-04T15:20:26.264968+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
+        {
+          "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+          "description": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday."
+        },
+        {
+          "title": "How the Cornell case is affecting women who have experienced sexual assault",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
+          "description": "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences \u2014 and call for a wider reckoning over sexual vi"
+        },
+        {
+          "title": "She died covering war for Fox News. Her parents blame the network \u2014 and a star reporter",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
+          "description": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people."
+        },
+        {
+          "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
+          "description": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity"
+        },
+        {
+          "title": "Coast Guard finds debris from medical plane carrying 6 people",
+          "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
+          "description": "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing."
+        },
+        {
+          "title": "Can the Cornell lawsuit force changes that make students safer?",
+          "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
+          "description": "Universities have responsibilities when students report sexual assault, even if prosecutors don't bring charges. Attorney Baine Kerr explains how those protections work."
+        },
         {
           "title": "Opinion: A Hawk is not the same as a Hawkeye",
           "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
@@ -14,36 +44,6 @@
           "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
           "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
           "description": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michig"
-        },
-        {
-          "title": "All's fair in love and 'War' \u2014 a well-cast, classy-trashy divorce drama",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
-          "description": "HBO's War is intended to be an anthology series about two dueling London law firms. The first season stars Dominic West and Sienna Miller as a high-profile couple in the midst of a"
-        },
-        {
-          "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-          "description": "Beloved for its dinosaurs, Philadelphia's storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it"
-        },
-        {
-          "title": "The Supreme Court faces another term jam-packed with controversy",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
-          "description": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping."
-        },
-        {
-          "title": "A hot tip to battle performance anxiety? 'Pretend flush' a mistake down the toilet",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
-          "description": "Worried about stumbling before a high-stakes event, like a race or a job interview? Psychologist Cindra Kamphoff offers creative strategies to overcome the jitters and build confid"
-        },
-        {
-          "title": "How the system failed us: Former foster youth tell their stories",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5939829/foster-care-youth-disabilities-failure-voices",
-          "description": "Former foster youth with disabilities tell their stories \u2014 of how they got through foster care"
-        },
-        {
-          "title": "No one expected an American pope. Here's the inside story of how 'Bob' became Pope Leo",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
-          "description": "When the 2025 conclave began, no one expected an American pope. But by its end, Cardinal Robert Prevost had become Pope Leo. Here's a look behind the scenes."
         }
       ]
     },
@@ -98,7 +98,7 @@
       "name": "Health",
       "items": [
         {
-          "title": "A hot tip to battle performance anxiety? 'Pretend flush' a mistake down the toilet",
+          "title": "4 ways to battle performance anxiety, according to a confidence coach",
           "link": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
           "description": "Worried about stumbling before a high-stakes event, like a race or a job interview? Psychologist Cindra Kamphoff offers creative strategies to overcome the jitters and build confid"
         },
