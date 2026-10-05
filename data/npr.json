@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-04T15:20:26.264968+00:00",
+  "updated": "2026-10-05T19:17:10.191747+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
-          "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
-          "description": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday."
+          "title": "The iconic Arthur Read made his TV debut 30 years ago",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146052/arthur-read-tv-debut-30-anniversary",
+          "description": "The animated series \"Arthur\" premiered on PBS Kids on Oct. 7, 1996."
         },
         {
-          "title": "How the Cornell case is affecting women who have experienced sexual assault",
-          "link": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
-          "description": "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences \u2014 and call for a wider reckoning over sexual vi"
+          "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
+          "description": "ennis Hastert, whose political legacy as Congress' longest-serving Republican House speaker was later fouled by allegations that he had molested high school athletes during his pri"
         },
         {
-          "title": "She died covering war for Fox News. Her parents blame the network \u2014 and a star reporter",
-          "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
-          "description": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people."
+          "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
+          "link": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+          "description": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolvi"
         },
         {
-          "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
-          "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
-          "description": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity"
+          "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
+          "description": "The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family."
         },
         {
-          "title": "Coast Guard finds debris from medical plane carrying 6 people",
-          "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
-          "description": "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing."
+          "title": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146408/imran-khan-supporters-march-in-pakistan-to-demand-his-release-after-talks-failed",
+          "description": "Talks between Khan's party and the government failed two days ago. Besides Khan's release, protesters demand his transfer to a hospital and family visits."
         },
         {
-          "title": "Can the Cornell lawsuit force changes that make students safer?",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
-          "description": "Universities have responsibilities when students report sexual assault, even if prosecutors don't bring charges. Attorney Baine Kerr explains how those protections work."
+          "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+          "description": "The Supreme Court is set to hear a blockbuster climate change case that could affect more than just climate issues. And, Brazil's presidential race is too close to call."
         },
         {
-          "title": "Opinion: A Hawk is not the same as a Hawkeye",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
-          "description": "This was emphasized to people watching a Senate hearing this week, where confusion over two basketball teams was on display."
+          "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
+          "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+          "description": "The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to"
         },
         {
-          "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
-          "description": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michig"
+          "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+          "description": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells."
         }
       ]
     },
@@ -51,6 +51,11 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+          "description": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells."
+        },
         {
           "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
           "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
@@ -85,11 +90,6 @@
           "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
           "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
           "description": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a "
-        },
-        {
-          "title": "Historic science museum in Philadelphia to close",
-          "link": "https://www.npr.org/2026/09/29/nx-s1-5983851/historic-science-museum-in-philadelphia-to-close",
-          "description": "Philadelphia's Academy of Natural Sciences is set to close down thanks to financial pressures. The 198-year-old museum houses important scientific specimens and a beloved dinosaur "
         }
       ]
     },
@@ -97,6 +97,21 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "Republicans and Democrats find a unifying target: Pharmacy benefit managers",
+          "link": "https://www.npr.org/2026/10/05/nx-s1-5943563/pharmacy-benefit-managers-pbms-tennessee-arkansas-regulation",
+          "description": "Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are r"
+        },
+        {
+          "title": "From floating saunas to clinical trials: How heat might help mental health",
+          "link": "https://www.npr.org/2026/10/05/nx-s1-5979044/sauna-heat-therapy-mental-health-depression",
+          "description": "While scientists have a decent understanding of how sauna and other forms of heat exposure exercises our cardiovascular system, they know relatively little about its impact on ment"
+        },
+        {
+          "title": "What does marathon training do to your body? A reporter becomes the test subject",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5923942/what-does-marathon-training-do-to-your-body-a-reporter-becomes-the-test-subject",
+          "description": "Before running the New York City Marathon, NPR's Elissa Nadworny gets a bone scan, blood work and a treadmill test to settle a question from Mom: Is this bad for my body?"
+        },
         {
           "title": "4 ways to battle performance anxiety, according to a confidence coach",
           "link": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
@@ -121,21 +136,6 @@
           "title": "A new California law bans child marriage. What's the global outlook on the practice?",
           "link": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
           "description": "The governor of California has signed into law a ban on child marriage. What is the status of other efforts to ban the practice? And do bans prove effective?"
-        },
-        {
-          "title": "Trump administration reverses stance on integration of people with disabilities",
-          "link": "https://www.npr.org/2026/10/01/nx-s1-5981375/integration-mandate-disabilities-reversed-trump",
-          "description": "Disability rights advocates are angered by the latest reversal but are rallying behind proposed legislation and working with states to strengthen protections for community integrat"
-        },
-        {
-          "title": "After failed execution, health workers say Tennessee's method flouts medical ethics",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
-          "description": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn't help with executions, no matter the met"
-        },
-        {
-          "title": "Travel plans? Here's what to know as measles exposures reach trains and games",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
-          "description": "Measles is traveling, with outbreaks in Pennsylvania, Ohio and New York, and exposures on transportation and in sports. What should you know before getting on a plane or train?"
         }
       ]
     }
