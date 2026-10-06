@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-05T19:17:10.191747+00:00",
+  "updated": "2026-10-06T16:47:05.889777+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "The iconic Arthur Read made his TV debut 30 years ago",
-          "link": "https://www.npr.org/2026/10/05/g-s1-146052/arthur-read-tv-debut-30-anniversary",
-          "description": "The animated series \"Arthur\" premiered on PBS Kids on Oct. 7, 1996."
+          "title": "Here are the finalists for the 2026 National Book Awards",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
+          "description": "Three-time National Book Award finalist Edwidge Danticat and debut novelist Morgan Thomas are up for the fiction prize. Nonfiction books cover the prison system and music, and quee"
         },
         {
-          "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
-          "link": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
-          "description": "ennis Hastert, whose political legacy as Congress' longest-serving Republican House speaker was later fouled by allegations that he had molested high school athletes during his pri"
+          "title": "What to know about nationwide protests in India over voter list changes",
+          "link": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
+          "description": "The campaign is led in part by India's \"Cockroach\" youth movement, which previously forced the education minister to resign."
         },
         {
-          "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
-          "link": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
-          "description": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolvi"
+          "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
+          "link": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
+          "description": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night."
         },
         {
-          "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
-          "link": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
-          "description": "The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family."
+          "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
+          "link": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets",
+          "description": "A former head of Germany 's foreign intelligence service was arrested on suspicion that he had passed state secrets to a foreign intelligence service, the federal prosecutor's offi"
         },
         {
-          "title": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
-          "link": "https://www.npr.org/2026/10/05/g-s1-146408/imran-khan-supporters-march-in-pakistan-to-demand-his-release-after-talks-failed",
-          "description": "Talks between Khan's party and the government failed two days ago. Besides Khan's release, protesters demand his transfer to a hospital and family visits."
+          "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
+          "link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
+          "description": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bro"
         },
         {
-          "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
-          "link": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
-          "description": "The Supreme Court is set to hear a blockbuster climate change case that could affect more than just climate issues. And, Brazil's presidential race is too close to call."
+          "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
+          "description": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government"
         },
         {
-          "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
-          "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
-          "description": "The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to"
+          "title": "What voters in 6 key states could tell us about the 2026 midterms",
+          "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+          "description": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections."
         },
         {
-          "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
-          "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
-          "description": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells."
+          "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
+          "link": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
+          "description": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin\u2013Madison. His research into capturing neutrinos at the South Pole dates back to th"
         }
       ]
     },
@@ -51,6 +51,21 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
+          "link": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
+          "description": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night."
+        },
+        {
+          "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
+          "link": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
+          "description": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin\u2013Madison. His research into capturing neutrinos at the South Pole dates back to th"
+        },
+        {
+          "title": "Wildfire smoke affects animals in unique ways. Scientists are trying to understand it",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5991854/wildfire-smoke-ecology-birds-wildlife-health",
+          "description": "The new field of \"smoke ecology\" examines how wildfire smoke perturbs wild places and animals \u2014 and what might be done to prevent its worst mayhem."
+        },
         {
           "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
           "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
@@ -75,21 +90,6 @@
           "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
           "link": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
           "description": "The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company's moonshot effort to put AI data centers in space and harness solar energy."
-        },
-        {
-          "title": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
-          "link": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
-          "description": "The crew of four \u2014 two NASA astronauts, one from Canada, and a Russian cosmonaut \u2014 heads to the International Space Station after liftoff from the Cape Canaveral Space Force Statio"
-        },
-        {
-          "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
-          "description": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project."
-        },
-        {
-          "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
-          "description": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a "
         }
       ]
     },
@@ -97,6 +97,16 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "What happened during Christa Pike's failed execution",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness",
+          "description": "Catherine Sweeney was in the witness room when Tennessee attempted to execute Christa Pike on Sept. 30. An attempted execution in May had also failed. Here's what Sweeney saw and h"
+        },
+        {
+          "title": "Wildfire smoke affects animals in unique ways. Scientists are trying to understand it",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5991854/wildfire-smoke-ecology-birds-wildlife-health",
+          "description": "The new field of \"smoke ecology\" examines how wildfire smoke perturbs wild places and animals \u2014 and what might be done to prevent its worst mayhem."
+        },
         {
           "title": "Republicans and Democrats find a unifying target: Pharmacy benefit managers",
           "link": "https://www.npr.org/2026/10/05/nx-s1-5943563/pharmacy-benefit-managers-pbms-tennessee-arkansas-regulation",
@@ -126,16 +136,6 @@
           "title": "Heat-related deaths in Phoenix rise, after two years of decline",
           "link": "https://www.npr.org/2026/10/01/nx-s1-5936538/heat-related-deaths-in-phoenix-rise-after-two-years-of-decline",
           "description": "Metro Phoenix has so far seen twice as many heat deaths as this time last year. Authorities are trying to understand why and how to intervene."
-        },
-        {
-          "title": "'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy",
-          "link": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
-          "description": "Starting Oct. 1, many immigrants who are here legally lose their Medicaid coverage because of the Republican budget bill passed last year."
-        },
-        {
-          "title": "A new California law bans child marriage. What's the global outlook on the practice?",
-          "link": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
-          "description": "The governor of California has signed into law a ban on child marriage. What is the status of other efforts to ban the practice? And do bans prove effective?"
         }
       ]
     }
