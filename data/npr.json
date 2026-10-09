@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-08T17:23:32.428003+00:00",
+  "updated": "2026-10-09T16:58:51.010072+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "New U.S. indictment charges former Venezuelan President Nicol\u00e1s Maduro with torture",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
-          "description": "U.S. authorities charged the former Venezuelan president with conspiring to torture his fellow citizens as well as Americans. That adds to drugs and weapons charges against him."
+          "title": "Did Russia play by the rules in reporting lab worker's death?",
+          "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
+          "description": "A global treaty signed by 197 countries \u2014 including Russia \u2014 requires reporting any death that could be a sign of an outbreak to come."
         },
         {
-          "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
-          "description": "Four people \u2014 two NASA astronauts, one from the European Space Agency and a Russian cosmonaut \u2014 spent nearly eight months at the space station, conducting spacewalks, science exper"
+          "title": "How the oil industry is preparing for Hurricane Isaias",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
+          "description": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?"
         },
         {
-          "title": "White House correspondent April Ryan reflects on reporting while under attack",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack",
-          "description": "Ryan has spent decades pressing presidents for answers. She talks about access, power, race and how asking questions put her in President Trump's crosshairs. Her new book is Notes "
+          "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
+          "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+          "description": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck."
         },
         {
-          "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
-          "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-          "description": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation."
+          "title": "Why American investors love European defense startups",
+          "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+          "description": "As European defense spending takes off, just about half of the funding in Europe's defense tech industry is coming from American investors this year. One reason why: European inves"
         },
         {
-          "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-          "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-          "description": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the bo"
+          "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+          "description": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November."
         },
         {
-          "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
-          "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
-          "description": "People in the Gulf are preparing for bad weather this weekend after Isaias intensified into a hurricane. And, a judge has ordered Christa Pike's failed execution evidence be preser"
+          "title": "Why we remember: One student's journey into memory",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+          "description": "Why one teen can't let go of the time he ate fries with his great-grandpa."
         },
         {
-          "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
-          "link": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
-          "description": "Russian strikes in eastern Ukraine have killed 30 people and injured at least 18, according to authorities. The attacks included a strike on a public bus and have worsened power ou"
+          "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
+          "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
+          "description": "Plus: Nobels! Protests! Ambiguous quotes! A mysterious death in Russia!"
         },
         {
-          "title": "ICE has quietly used this warehouse as a detention facility all summer, neighbors say",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5983441/ice-warehouses-new-jersey-roxbury",
-          "description": "Throughout the summer, rumors have been bubbling in North New Jersey that ICE has quietly been using a warehouse as a detention center. NPR investigated."
+          "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+          "description": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm"
         }
       ]
     },
@@ -51,6 +51,16 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "'Life-threatening' Isaias is now a major hurricane as it nears the Gulf Coast",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
+          "description": "Hurricane Isaias is growing stronger, bringing a dangerous storm surge to the Gulf Coast. With landfall expected Friday night, Florida Gov. Ron DeSantis urged people to evacuate if"
+        },
+        {
+          "title": "Study finds 194-year-old tortoise is 'aging more slowly than you would expect'",
+          "link": "https://www.npr.org/2026/10/08/nx-s1-5991673/study-finds-194-year-old-tortoise-is-aging-more-slowly-than-you-would-expect",
+          "description": "Researchers are studying the genome of the world's oldest land animal \u2014 a 194-year-old tortoise named Jonathan \u2014 to uncover secrets about his longevity."
+        },
         {
           "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
           "link": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
@@ -80,16 +90,6 @@
           "title": "Scientists win chemistry Nobel for discoveries about mirrored molecules that led to many drugs",
           "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
           "description": "Scientists Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry for untangling mysterious mirror images in molecules, a discovery that has been used to develop countless "
-        },
-        {
-          "title": "The 2026 Nobel Prize in Physics has gone to a neutrino detector in Antarctica",
-          "link": "https://www.npr.org/2026/10/06/nx-s1-5992663/the-2026-nobel-prize-in-physics-has-gone-to-a-neutrino-detector-in-antarctica",
-          "description": "The Nobel Prize in Physics was awarded Francis Halzen of the University of Wisconsin Madison, who built an observatory under Antarctica."
-        },
-        {
-          "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
-          "link": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
-          "description": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night."
         }
       ]
     },
@@ -98,44 +98,44 @@
       "name": "Health",
       "items": [
         {
+          "title": "Did Russia play by the rules in reporting lab worker's death?",
+          "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
+          "description": "A global treaty signed by 197 countries \u2014 including Russia \u2014 requires reporting any death that could be a sign of an outbreak to come."
+        },
+        {
+          "title": "Why we remember: One student's journey into memory",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+          "description": "Why one teen can't let go of the time he ate fries with his great-grandpa."
+        },
+        {
+          "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+          "description": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm"
+        },
+        {
+          "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
+          "description": "Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia."
+        },
+        {
+          "title": "RFK Jr. touts vaccine injury initiative, worrying experts",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5995393/rfk-jr-touts-vaccine-injury-initiative-worrying-experts",
+          "description": "Heath Secretary Robert F. Kennedy Jr. announces new steps aimed at identifying and treating complications from vaccines."
+        },
+        {
+          "title": "Health Secretary Kennedy touts an initiative to study vaccine safety",
+          "link": "https://www.npr.org/2026/10/08/nx-s1-5995014/health-secretary-kennedy-touts-an-initiative-to-study-vaccine-safety",
+          "description": "Health Secretary Robert F. Kennedy Jr. has established a new clinic at the National Institutes of Health to study vaccine injuries. It's part of a larger administration effort on v"
+        },
+        {
+          "title": "Suicide is up among Black Americans. We need to talk about it.",
+          "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
+          "description": "NPR's Michel Martin hosted a panel conversation about mental health and suicide in the Black community, exploring a difficult subject in deeply personal conversations."
+        },
+        {
           "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
           "link": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
           "description": "In Los Angeles County, the nation's most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can't pay"
-        },
-        {
-          "title": "New Maryland law requires radiologists inform patients of heart disease warning sign",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5993782/new-maryland-law-requires-radiologists-inform-patients-of-heart-disease-warning-sign",
-          "description": "NPR's Michel Martin speaks with radiologist Dr. Lisa Mullen about a new Maryland law requiring that patients be notified if mammogram results show calcium deposits in blood vessels"
-        },
-        {
-          "title": "Republicans and Democrats find a unifying target: Pharmacy benefit managers",
-          "link": "https://www.npr.org/2026/10/07/nx-s1-5943557/republicans-and-democrats-find-a-unifying-target-pharmacy-benefit-managers",
-          "description": "Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are r"
-        },
-        {
-          "title": "The WHO seeks more details on the death of a plague research lab employee in Russia",
-          "link": "https://www.npr.org/2026/10/07/nx-s1-5993873/russia-death-plague-research-institute",
-          "description": "The World Health Organization says it wants more information on what caused the death of an employee at a Russian plague research lab. Russia says the woman died of pneumonia of un"
-        },
-        {
-          "title": "What is the pneumonic plague?",
-          "link": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
-          "description": "The ancient disease of plague is back in the headlines after the death this month of a Russian lab worker."
-        },
-        {
-          "title": "Doomscrolling too much? Try these tips to put the phone down and plug into real life",
-          "link": "https://www.npr.org/2026/10/07/nx-s1-5815327-e1/doomscrolling-too-much-try-these-tips-to-put-the-phone-down-and-plug-into-real-life",
-          "description": "NPR Life Kit provides tips to help you reduce your screentime."
-        },
-        {
-          "title": "How to define a measles death",
-          "link": "https://www.npr.org/2026/10/07/nx-s1-5987963/how-to-define-a-measles-death",
-          "description": "Historically, the CDC relied on state health departments' determination of measles deaths. Now, it's working with the Council of State and Territorial Epidemiologists to create a c"
-        },
-        {
-          "title": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'",
-          "link": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
-          "description": "As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and s"
         }
       ]
     }
