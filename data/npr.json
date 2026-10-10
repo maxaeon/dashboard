@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-09T16:58:51.010072+00:00",
+  "updated": "2026-10-10T15:51:48.684994+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Did Russia play by the rules in reporting lab worker's death?",
-          "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
-          "description": "A global treaty signed by 197 countries \u2014 including Russia \u2014 requires reporting any death that could be a sign of an outbreak to come."
+          "title": "Opinion: Can I keep the baseball I caught?",
+          "link": "https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
+          "description": "What would you do if you caught a baseball during the MLB playoffs? Give it to a kid nearby or keep it? This very scenario played out this week, with a fan deciding to keep the bal"
         },
         {
-          "title": "How the oil industry is preparing for Hurricane Isaias",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
-          "description": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?"
+          "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
+          "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
+          "description": "Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis."
         },
         {
-          "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
-          "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
-          "description": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck."
+          "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
+          "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
+          "description": "Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap."
         },
         {
-          "title": "Why American investors love European defense startups",
-          "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
-          "description": "As European defense spending takes off, just about half of the funding in Europe's defense tech industry is coming from American investors this year. One reason why: European inves"
+          "title": "16 cozy activities to add to your fall bucket list",
+          "link": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
+          "description": "Carve a pumpkin? You can do better than that. Fun and unusual ways to celebrate the season, from writing a gratitude letter to making an ancestral altar."
         },
         {
-          "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
-          "description": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November."
+          "title": "The Met puts a modern artist front and center (and there's some Jackson Pollock, too)",
+          "link": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met",
+          "description": "In a blockbuster show, The Metropolitan Museum of Art places the work of two major 20th century artists side by side: the married couple Lee Krasner and Jackson Pollock."
         },
         {
-          "title": "Why we remember: One student's journey into memory",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
-          "description": "Why one teen can't let go of the time he ate fries with his great-grandpa."
+          "title": "Photos: What a year of ceasefire in Gaza looks like",
+          "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+          "description": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefi"
         },
         {
-          "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
-          "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
-          "description": "Plus: Nobels! Protests! Ambiguous quotes! A mysterious death in Russia!"
+          "title": "India cracks down on youth protests as anger grows against Modi and election chief",
+          "link": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+          "description": "The protests focus on the Election Commission's voter list revision, which the opposition claims disenfranchises millions. The government denies the allegations, saying the revisio"
         },
         {
-          "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
-          "description": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm"
+          "title": "Kalshi taps former FBI agent to fight against money laundering",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
+          "description": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider tra"
         }
       ]
     },
@@ -52,9 +52,19 @@
       "name": "Science",
       "items": [
         {
-          "title": "'Life-threatening' Isaias is now a major hurricane as it nears the Gulf Coast",
+          "title": "The origin of the chew: When did we learn to eat like this?",
+          "link": "https://www.npr.org/2026/10/10/nx-s1-5991361-e1/the-origin-of-the-chew-when-did-we-learn-to-eat-like-this",
+          "description": "It's likely you've already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs "
+        },
+        {
+          "title": "Isaias pummels the Gulf Coast, and plows through Alabama",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
-          "description": "Hurricane Isaias is growing stronger, bringing a dangerous storm surge to the Gulf Coast. With landfall expected Friday night, Florida Gov. Ron DeSantis urged people to evacuate if"
+          "description": "Hurricane Isaias landed Friday night on the Florida Gulf Coast. The storm was expected to bring life-threatening storm surge, damaging winds, flooding and the possibility of tornad"
+        },
+        {
+          "title": "Margaret Hamilton, whose software sent humans to the moon, dies at 90",
+          "link": "https://www.npr.org/2026/10/08/nx-s1-5994972/margaret-hamilton-obituary-software-engineer-apollo",
+          "description": "Hamilton was in her early thirties when she led the team of software engineers that powered NASA's Apollo missions. She later said, \"There was no choice but to be pioneers.\""
         },
         {
           "title": "Study finds 194-year-old tortoise is 'aging more slowly than you would expect'",
@@ -80,16 +90,6 @@
           "title": "This surprising mammal fossil is giving scientists something to chew on",
           "link": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest",
           "description": "It's likely you've already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs "
-        },
-        {
-          "title": "Gut microbes followed migrating humans across continents, new study suggests",
-          "link": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
-          "description": "New research looks at the surprising similarities in the gut microbiomes of hunter-gathers in Tanzania and horticulturalists in Bolivia, and asks: What role do these bacteria play "
-        },
-        {
-          "title": "Scientists win chemistry Nobel for discoveries about mirrored molecules that led to many drugs",
-          "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
-          "description": "Scientists Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry for untangling mysterious mirror images in molecules, a discovery that has been used to develop countless "
         }
       ]
     },
@@ -98,19 +98,24 @@
       "name": "Health",
       "items": [
         {
+          "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
+          "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
+          "description": "Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis."
+        },
+        {
           "title": "Did Russia play by the rules in reporting lab worker's death?",
           "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
           "description": "A global treaty signed by 197 countries \u2014 including Russia \u2014 requires reporting any death that could be a sign of an outbreak to come."
         },
         {
-          "title": "Why we remember: One student's journey into memory",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
-          "description": "Why one teen can't let go of the time he ate fries with his great-grandpa."
-        },
-        {
           "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
           "description": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm"
+        },
+        {
+          "title": "Why we remember: One student's journey into memory",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+          "description": "Why one teen can't let go of the time he ate fries with his great-grandpa."
         },
         {
           "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
@@ -131,11 +136,6 @@
           "title": "Suicide is up among Black Americans. We need to talk about it.",
           "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
           "description": "NPR's Michel Martin hosted a panel conversation about mental health and suicide in the Black community, exploring a difficult subject in deeply personal conversations."
-        },
-        {
-          "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
-          "description": "In Los Angeles County, the nation's most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can't pay"
         }
       ]
     }
