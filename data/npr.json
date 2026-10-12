@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-11T16:18:28.512774+00:00",
+  "updated": "2026-10-12T19:47:33.162899+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Pope Leo XIV to undergo lung surgery this week",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
-          "description": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung."
+          "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+          "description": "The Justice Department says the search is part of an \"ongoing federal investigation\", while Omar calls it \"an attempt to target political enemies\""
         },
         {
-          "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
-          "description": "The eye of Hurricane Simon was just off the Pacific coast of Mexico early Sunday and was expected to move inland later in the day as an extremely powerful storm."
+          "title": "India's opposition parties march to top court as protests over voter lists escalate",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
+          "description": "Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll"
         },
         {
-          "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
-          "description": "Listeners of NPR's Weekend Edition Sunday may already know that host Ayesha Rascoe loves horror. But why do scream queens (and kings) like her like what's frightening? The answer m"
+          "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+          "link": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+          "description": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader."
         },
         {
-          "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
-          "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
-          "description": "Her epic ride \u2014 carrying her injured dad on her $20 hot pink bicycle \u2014 made headlines. Promises were made \u2014 financial help, training for a cycling career, even a movie deal. Were a"
+          "title": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
+          "description": "The U.S. government is trying to end the dominance of high-quality, low-cost drones made in China. But more restrictions mean higher costs for cash-strapped police forces that rely"
         },
         {
-          "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
-          "description": "A group of international researchers is pushing to rigorously study the potential health benefits of sauna and other heat therapies. They hope to bring scientific legitimacy to the"
+          "title": "Here's what to know if you're unsure about your measles immunity status",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
+          "description": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call fo"
         },
         {
-          "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
-          "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
-          "description": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the preside"
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5995584/newsbrief-trump-russia-ukraine-trump-priorities-saudi-airport-strikes",
+          "description": ""
         },
         {
-          "title": "It's taking longer to find a new job after losing one",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
-          "description": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job."
+          "title": "Texas' 15th Congressional District provides clues to state's Latino vote",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5986126/texas-15th-congressional-district-provides-clues-to-states-latino-vote",
+          "description": "The 15th Congressional District runs from the east of San Antonio all the way down into the Rio Grande Valley. This majority-Latino district provides a window into the Latino vote "
         },
         {
-          "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
-          "description": "In a highly competitive Washington congressional race, the incumbent Democrat has angered part of her party base and the Trump-backed Republican challenger faces backlash against t"
+          "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
+          "description": "Two Americans have won the Nobel Prize in economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation."
         }
       ]
     },
@@ -98,6 +98,11 @@
       "name": "Health",
       "items": [
         {
+          "title": "Here's what to know if you're unsure about your measles immunity status",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
+          "description": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call fo"
+        },
+        {
           "title": "How one antibiotic morning-after pill came to be widely available in San Francisco",
           "link": "https://www.npr.org/2026/10/11/nx-s1-5913852/how-one-antibiotic-morning-after-pill-came-to-be-widely-available-in-san-francisco",
           "description": "An antibiotic morning-after pill has been shown to be effective for preventing STIs among gay men, but some doctors worry about antibiotic resistance. This story discusses STIs and"
@@ -131,11 +136,6 @@
           "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
           "description": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm"
-        },
-        {
-          "title": "Why we remember: One student's journey into memory",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
-          "description": "Why one teen can't let go of the time he ate fries with his great-grandpa."
         }
       ]
     }
