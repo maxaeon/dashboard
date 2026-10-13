@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-12T19:47:33.162899+00:00",
+  "updated": "2026-10-13T17:35:02.299133+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
-          "description": "The Justice Department says the search is part of an \"ongoing federal investigation\", while Omar calls it \"an attempt to target political enemies\""
+          "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+          "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
+          "description": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home"
         },
         {
-          "title": "India's opposition parties march to top court as protests over voter lists escalate",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
-          "description": "Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll"
+          "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
+          "description": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan."
         },
         {
-          "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
-          "link": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
-          "description": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader."
+          "title": "What ice cream has to do with this year's Nobel Prize in economics",
+          "link": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
+          "description": "Prices can get sticky. That helps explain why recessions hurt so much \u2014 and what policymakers can do about them."
         },
         {
-          "title": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
-          "description": "The U.S. government is trying to end the dominance of high-quality, low-cost drones made in China. But more restrictions mean higher costs for cash-strapped police forces that rely"
+          "title": "Win or lose, independent candidates want to meet voters in the middle",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates",
+          "description": "Nearly 200 independent candidates in more than 100 congressional races are trying to prove there's an alternative to the two party system \u2014 even though the chance of winning is ver"
         },
         {
-          "title": "Here's what to know if you're unsure about your measles immunity status",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
-          "description": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call fo"
+          "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
+          "description": "With Election Day just a few weeks away \u2014 and millions of votes already cast \u2014 midterm polls are everywhere. While polling can be a helpful tool to understand the electorate, it's "
+        },
+        {
+          "title": "Voters here will decide whether to force cities to build cheaper, smaller homes",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability",
+          "description": "Voters in Massachusetts will decide whether to require cities and towns to allow smaller homes on smaller lots. A growing number of states are doing the same to help ease a housing"
+        },
+        {
+          "title": "Some of the most pristine coral reefs have a secret weapon: birds",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
+          "description": "Coral reefs are facing increasing threats around the globe. But on a remote Pacific island, scientists have found that reefs can get help from a surprising ally: seabirds."
         },
         {
           "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5995584/newsbrief-trump-russia-ukraine-trump-priorities-saudi-airport-strikes",
-          "description": ""
-        },
-        {
-          "title": "Texas' 15th Congressional District provides clues to state's Latino vote",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5986126/texas-15th-congressional-district-provides-clues-to-states-latino-vote",
-          "description": "The 15th Congressional District runs from the east of San Antonio all the way down into the Rio Grande Valley. This majority-Latino district provides a window into the Latino vote "
-        },
-        {
-          "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
-          "description": "Two Americans have won the Nobel Prize in economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation."
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5998694/morning-news-brief",
+          "description": "Trump will headline a rally in Alaska Tuesday, federal agents searched Rep. Ilhan Omar's D.C. home Monday, Trump's diesel deal with Russia frustrates European leaders."
         }
       ]
     },
@@ -51,6 +51,11 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Researchers are tracking Monarch butterflies to learn more about their journey",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5986256/researchers-are-tracking-monarch-butterflies-to-learn-more-about-their-journey",
+          "description": "Researchers all over North America are attaching tiny transmitters to Monarch butterflies as they begin their migration to Mexico, to learn more about their stops and challenges."
+        },
         {
           "title": "The origin of the chew: When did we learn to eat like this?",
           "link": "https://www.npr.org/2026/10/10/nx-s1-5991361-e1/the-origin-of-the-chew-when-did-we-learn-to-eat-like-this",
@@ -85,11 +90,6 @@
           "title": "How 'Musk' director Alex Gibney became a critic",
           "link": "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney",
           "description": "A trove of documents and interviews with people close to tech billionaire Elon Musk reveal a damning picture of his rise as one of the world's richest and most powerful men."
-        },
-        {
-          "title": "This surprising mammal fossil is giving scientists something to chew on",
-          "link": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest",
-          "description": "It's likely you've already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs "
         }
       ]
     },
@@ -97,6 +97,16 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "Rise in accidents involving kids and e-bikes sparks debate about regulation",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5969944/rise-in-accidents-involving-kids-and-e-bikes-sparks-debate-about-regulation",
+          "description": "Emergency room departments are reporting soaring numbers of pediatric trauma accidents associated with micromobility devices. Experts and advocates agree that the federal governmen"
+        },
+        {
+          "title": "Sauna research gathers steam",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5977014/sauna-research-gathers-steam",
+          "description": "Leading researchers in heat exposure are coming together to reach a consensus on what we know \u2014 and don't \u2014 about the health benefits of sauna and its potential for treating and pr"
+        },
         {
           "title": "Here's what to know if you're unsure about your measles immunity status",
           "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
@@ -126,16 +136,6 @@
           "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
           "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
           "description": "Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis."
-        },
-        {
-          "title": "Did Russia play by the rules in reporting lab worker's death?",
-          "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
-          "description": "A global treaty signed by 197 countries \u2014 including Russia \u2014 requires reporting any death that could be a sign of an outbreak to come."
-        },
-        {
-          "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
-          "description": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm"
         }
       ]
     }
