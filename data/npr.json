@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-13T17:35:02.299133+00:00",
+  "updated": "2026-10-14T15:06:30.040097+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
-          "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
-          "description": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home"
+          "title": "Inflation sizzled in September \u2014 and Social Security benefits will get a boost",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
+          "description": "Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living."
         },
         {
-          "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
-          "description": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan."
+          "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
+          "description": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style."
         },
         {
-          "title": "What ice cream has to do with this year's Nobel Prize in economics",
-          "link": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
-          "description": "Prices can get sticky. That helps explain why recessions hurt so much \u2014 and what policymakers can do about them."
+          "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+          "link": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
+          "description": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung canc"
         },
         {
-          "title": "Win or lose, independent candidates want to meet voters in the middle",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates",
-          "description": "Nearly 200 independent candidates in more than 100 congressional races are trying to prove there's an alternative to the two party system \u2014 even though the chance of winning is ver"
+          "title": "These workers help train robots who could one day steal their jobs",
+          "link": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
+          "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
         },
         {
-          "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
-          "description": "With Election Day just a few weeks away \u2014 and millions of votes already cast \u2014 midterm polls are everywhere. While polling can be a helpful tool to understand the electorate, it's "
+          "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+          "link": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
+          "description": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct."
         },
         {
-          "title": "Voters here will decide whether to force cities to build cheaper, smaller homes",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability",
-          "description": "Voters in Massachusetts will decide whether to require cities and towns to allow smaller homes on smaller lots. A growing number of states are doing the same to help ease a housing"
+          "title": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards",
+          "description": "Organized criminal rings target SNAP recipients because of the government program's outdated security features. But upgrading the tech costs money and states' SNAP budgets are gett"
         },
         {
-          "title": "Some of the most pristine coral reefs have a secret weapon: birds",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
-          "description": "Coral reefs are facing increasing threats around the globe. But on a remote Pacific island, scientists have found that reefs can get help from a surprising ally: seabirds."
+          "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
+          "description": "For many election cycles, civil rights groups and political parties have fanned out to monitor polling places, but the charged midterm environment has many organizations stepping u"
         },
         {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5998694/morning-news-brief",
-          "description": "Trump will headline a rally in Alaska Tuesday, federal agents searched Rep. Ilhan Omar's D.C. home Monday, Trump's diesel deal with Russia frustrates European leaders."
+          "title": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
+          "description": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century \u2014 and flip the governor's office back to Republican control, even in what could be a tough "
         }
       ]
     },
@@ -51,6 +51,16 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Researchers are tracking Monarch butterflies to learn more about their journey",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5986256-e1/researchers-are-tracking-monarch-butterflies-to-learn-more-about-their-journey",
+          "description": "Researchers all over North America are attaching tiny transmitters to Monarch butterflies as they begin their migration to Mexico, to learn more about their stops and challenges."
+        },
+        {
+          "title": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
+          "description": "Locals and preservationists have long opposed Trump's plan to redevelop a municipal D.C. golf course. That legal fight escalated after the government cleared hundreds of trees on s"
+        },
         {
           "title": "Researchers are tracking Monarch butterflies to learn more about their journey",
           "link": "https://www.npr.org/2026/10/13/nx-s1-5986256/researchers-are-tracking-monarch-butterflies-to-learn-more-about-their-journey",
@@ -80,16 +90,6 @@
           "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
           "link": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
           "description": "Four people \u2014 two NASA astronauts, one from the European Space Agency and a Russian cosmonaut \u2014 spent nearly eight months at the space station, conducting spacewalks, science exper"
-        },
-        {
-          "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
-          "description": "In Los Angeles County, the nation's most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can't pay"
-        },
-        {
-          "title": "How 'Musk' director Alex Gibney became a critic",
-          "link": "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney",
-          "description": "A trove of documents and interviews with people close to tech billionaire Elon Musk reveal a damning picture of his rise as one of the world's richest and most powerful men."
         }
       ]
     },
@@ -98,9 +98,24 @@
       "name": "Health",
       "items": [
         {
-          "title": "Rise in accidents involving kids and e-bikes sparks debate about regulation",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5969944/rise-in-accidents-involving-kids-and-e-bikes-sparks-debate-about-regulation",
-          "description": "Emergency room departments are reporting soaring numbers of pediatric trauma accidents associated with micromobility devices. Experts and advocates agree that the federal governmen"
+          "title": "These workers help train robots who could one day steal their jobs",
+          "link": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
+          "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
+        },
+        {
+          "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
+          "description": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them."
+        },
+        {
+          "title": "What to know about Pope Leo's lung cancer diagnosis",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6000696/what-to-know-about-pope-leos-lung-cancer-diagnosis",
+          "description": "NPR's Steve Inskeep speaks to Dr. Otis Brawley, an oncologist at Johns Hopkins University, about the Pope's lung cancer diagnosis."
+        },
+        {
+          "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
+          "description": "Li won a Pulitzer for her memoir about the suicides of her two sons. In her new novel, Music Against the Night, she writes about two young prodigies in the late 18th and early 19th"
         },
         {
           "title": "Sauna research gathers steam",
@@ -121,21 +136,6 @@
           "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
           "link": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
           "description": "Listeners of NPR's Weekend Edition Sunday may already know that host Ayesha Rascoe loves horror. But why do scream queens (and kings) like her like what's frightening? The answer m"
-        },
-        {
-          "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
-          "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
-          "description": "Her epic ride \u2014 carrying her injured dad on her $20 hot pink bicycle \u2014 made headlines. Promises were made \u2014 financial help, training for a cycling career, even a movie deal. Were a"
-        },
-        {
-          "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
-          "description": "A group of international researchers is pushing to rigorously study the potential health benefits of sauna and other heat therapies. They hope to bring scientific legitimacy to the"
-        },
-        {
-          "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
-          "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
-          "description": "Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis."
         }
       ]
     }
