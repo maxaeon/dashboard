@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-17T13:42:13.137723+00:00",
+  "updated": "2026-10-18T13:59:09.826504+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Perspective: Midterm money madness",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
-          "description": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas."
+          "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+          "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+          "description": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties."
         },
         {
-          "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
-          "description": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's"
+          "title": "If you have the scratch, they have the scares",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+          "description": "Scary stories are more than fun, they're big business."
         },
         {
-          "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
-          "description": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's pastare still fighting for justice. As survivors and perpetrat"
+          "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
+          "description": "Rep. Mar\u00eda Elvira Salazar filmed an ad warning the president that he's \"gone too far\" on immigration. It reflected concern among some Republicans that their gains with Latino voter"
         },
         {
-          "title": "No Kings turns its focus to voting this weekend. Here's what we know",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
-          "description": "The coalition behind nationwide anti-Trump protests is shifting its strategies this weekend to focus on voter turnout. Organizers say Saturday's events are a nonpartisan effort to "
+          "title": "Major fire breaks out in Alberta after deadly incident at military base",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+          "description": "Canada's defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire."
         },
         {
-          "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
-          "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
-          "description": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own "
+          "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
+          "description": "NPR's Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon."
         },
         {
-          "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
-          "description": "President Trump's midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republic"
+          "title": "French police arrest 1,800 after violent clashes and looting mar protests",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+          "description": "Police arrested at least 1,800 people across France after violent groups clashed with officers and looted shops during nationwide demonstrations that drew hundreds of thousands of "
         },
         {
-          "title": "Weddings are expensive. How about a grocery store cake?",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes",
-          "description": "About a third of couples are willing to save money on cake and dessert, according to the wedding-planning site Zola."
+          "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+          "description": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in"
         },
         {
-          "title": "Coastal homes burn as hot winds fuel California fires",
-          "link": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
-          "description": "High winds are fueling a fast-moving fire that has burned homes in Southern California. Flames engulfed expensive coastal properties and prompted thousands to evacuate."
+          "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+          "description": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no f"
         }
       ]
     },
@@ -51,6 +51,11 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
+          "description": "Rescuers in Indonesia have saved dozens of orangutans from wildfires. The critically endangered species is fighting for their lives and habitats during this deadly wildfire season."
+        },
         {
           "title": "Hot flashes, night sweats, insomnia \u2013 OB-GYNS set new rules for menopause treatment",
           "link": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
@@ -85,11 +90,6 @@
           "title": "Researchers are tracking Monarch butterflies to learn more about their journey",
           "link": "https://www.npr.org/2026/10/13/nx-s1-5986256/researchers-are-tracking-monarch-butterflies-to-learn-more-about-their-journey",
           "description": "Researchers all over North America are attaching tiny transmitters to Monarch butterflies as they begin their migration to Mexico, to learn more about their stops and challenges."
-        },
-        {
-          "title": "A 24-hour livestream lets you watch adorable newborn cheetah cubs at the National Zoo",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5997459/a-24-hour-livestream-lets-you-watch-adorable-newborn-cheetah-cubs-at-the-national-zoo",
-          "description": "If you're looking for an (adorable!) break from the news, we have a furry suggestion: The Smithsonian's cheetah cam, showing five cheetah cubs bonding with their mother."
         }
       ]
     },
