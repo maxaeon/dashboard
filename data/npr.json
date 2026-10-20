@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-19T16:58:15.849422+00:00",
+  "updated": "2026-10-20T15:02:32.713875+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-          "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
-          "description": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arres"
+          "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+          "link": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+          "description": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to a"
         },
         {
-          "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-          "link": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
-          "description": "More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country."
+          "title": "What if an AI bubble bursts \u2014 and that accelerates AI job losses?",
+          "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+          "description": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers."
         },
         {
-          "title": "The real reason it's going to take a while to know who won in some midterm races",
-          "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
-          "description": "Hint: It's not only because California counts slowly."
+          "title": "Can the new federal voucher program help public schools? Democrats are torn",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+          "description": "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good."
         },
         {
-          "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-          "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
-          "description": "A large underwater wave moved up the West Coast, raising sea levels. Scientists say it's driven by El Ni\u00f1o and it's going to happen again."
+          "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+          "description": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote on"
+        },
+        {
+          "title": "Why these 5 everyday items fluctuate in price at the grocery store",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+          "description": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
         },
         {
           "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
-          "description": "Ukraine and Russia exchange strikes as relations between U.S. and Ukraine deteriorate, the midterms are on track to be the most expensive on record, French president denounces viol"
+          "link": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
+          "description": "Trump presses to find an end to the war in Ukraine while courting Russia, campaigning reaches fever pitch with Election Day two weeks away, DOJ charges 28 people in California with"
         },
         {
-          "title": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
-          "link": "https://www.npr.org/2026/10/19/nx-s1-6005195/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
-          "description": "Michigan's Democratic U.S. Senate candidate Abdul El-Sayed is campaigning in the GOP stronghold of Michigan's Upper Peninsula, an area that hasn't voted for a Democrat in Congress "
+          "title": "Rays will face Brewers in World Series to produce a first-time champion",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
+          "description": "The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980."
         },
         {
-          "title": "Solar power is changing agriculture in Pakistan, but some fear it could cause issues",
-          "link": "https://www.npr.org/2026/10/19/nx-s1-5993523/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
-          "description": "Solar power is transforming agriculture in Pakistan. But in a country already facing water scarcity and extreme weather, some fear their widespread use could cause problems."
-        },
-        {
-          "title": "Alberta voters weigh future in Canada",
-          "link": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
-          "description": "On Monday voters in the oil-rich Canadian province of Alberta are deciding whether to take the first step toward a future referendum on independence."
+          "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+          "description": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for"
         }
       ]
     },
@@ -98,6 +98,11 @@
       "name": "Health",
       "items": [
         {
+          "title": "The Ebola crisis is far outpacing the response, Congo's IRC director says",
+          "link": "https://www.npr.org/2026/10/19/nx-s1-6005499/the-ebola-crisis-is-far-outpacing-the-response-congos-irc-director-says",
+          "description": "Health workers battling the ongoing Ebola outbreak in Congo are hindered by lack of data, budget cuts and a fearful community."
+        },
+        {
           "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
           "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
           "description": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own "
@@ -131,11 +136,6 @@
           "title": "These workers help train robots who could one day steal their jobs",
           "link": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
           "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
-        },
-        {
-          "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
-          "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
-          "description": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them."
         }
       ]
     }
