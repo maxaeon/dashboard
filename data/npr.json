@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-20T15:02:32.713875+00:00",
+  "updated": "2026-10-21T15:12:30.770997+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
-          "link": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
-          "description": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to a"
+          "title": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+          "description": "U.S. Democratic congressional nominee Brad Lander was detained along with about 80 American and Israeli rabbis and activists by Israeli security forces as they helped Palestinian o"
         },
         {
-          "title": "What if an AI bubble bursts \u2014 and that accelerates AI job losses?",
-          "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
-          "description": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers."
+          "title": "Trump leans into unprecedented power ahead of midterm elections",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
+          "description": "Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term."
         },
         {
-          "title": "Can the new federal voucher program help public schools? Democrats are torn",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
-          "description": "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good."
+          "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+          "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+          "description": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate poll"
         },
         {
-          "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
-          "description": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote on"
+          "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
+          "description": "The announcement of Hubbard's release came as talks got underway between Putin and White House envoy Steve Witkoff in Saint Petersburg focused on the latest U.S. efforts to end the"
         },
         {
-          "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
-          "description": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
+          "title": "2025 policing trend: Fewer serious crimes, more minor arrests",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase",
+          "description": "Arrests for more minor offenses, including vagrancy, rose in the U.S., even as violent crime rates dropped to historic lows, according to an analysis from criminal justice reform a"
+        },
+        {
+          "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
+          "description": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giv"
         },
         {
           "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
-          "description": "Trump presses to find an end to the war in Ukraine while courting Russia, campaigning reaches fever pitch with Election Day two weeks away, DOJ charges 28 people in California with"
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6003502/morning-news-brief",
+          "description": "Trump envoy Steve Witkoff to visit Russia in hopes of ending war, Trump campaigns in North Carolina, Saudi Arabia cancels 'Davos in the Desert' due to Houthi strikes."
         },
         {
-          "title": "Rays will face Brewers in World Series to produce a first-time champion",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
-          "description": "The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980."
-        },
-        {
-          "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-          "description": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for"
+          "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
+          "description": "India is plunged into political crisis after 130 million names were struck off voter rolls during a massive revision."
         }
       ]
     },
@@ -51,6 +51,11 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
+          "description": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giv"
+        },
         {
           "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
           "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
@@ -85,11 +90,6 @@
           "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
           "link": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space",
           "description": "The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition "
-        },
-        {
-          "title": "Researchers are tracking Monarch butterflies to learn more about their journey",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5986256-e1/researchers-are-tracking-monarch-butterflies-to-learn-more-about-their-journey",
-          "description": "Researchers all over North America are attaching tiny transmitters to Monarch butterflies as they begin their migration to Mexico, to learn more about their stops and challenges."
         }
       ]
     },
@@ -97,6 +97,31 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
+          "description": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giv"
+        },
+        {
+          "title": "Actor Christina Applegate says she was misdiagnosed with multiple sclerosis",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6009382/actor-christina-applegate-says-she-was-misdiagnosed-with-multiple-sclerosis",
+          "description": "Actor Christina Applegate revealed she was misdiagnosed with multiple sclerosis. NPR's A Mart\u00ednez speaks with neurologist Michael Kornberg about how MS can be misdiagnosed."
+        },
+        {
+          "title": "Influencers are helping 'free birth' gain fans, despite medical risks",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-6003853/influencers-are-helping-free-birth-gain-fans-despite-medical-risks",
+          "description": "The practice known as \"free birth\" \u2014 giving birth at home without a midwife \u2014 carries severe risks. But social media influencers are bringing attention and followers to the practic"
+        },
+        {
+          "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+          "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+          "description": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infec"
+        },
+        {
+          "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
+          "link": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
+          "description": "A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it's challenging but not \"daunting.\""
+        },
         {
           "title": "The Ebola crisis is far outpacing the response, Congo's IRC director says",
           "link": "https://www.npr.org/2026/10/19/nx-s1-6005499/the-ebola-crisis-is-far-outpacing-the-response-congos-irc-director-says",
@@ -111,31 +136,6 @@
           "title": "Hot flashes, night sweats, insomnia \u2013 OB-GYNS set new rules for menopause treatment",
           "link": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
           "description": "For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause."
-        },
-        {
-          "title": "Public health nurse talks about the moment she learned to ask for help",
-          "link": "https://www.npr.org/2026/10/16/nx-s1-5998634/public-health-nurse-talks-about-the-moment-she-learned-to-ask-for-help",
-          "description": "For StoryCorps, a public health nurse in Minnesota speaks with her college mentor about a moment when she almost gave up on her career aspirations."
-        },
-        {
-          "title": "Hit a midlife wall? Here's how to rediscover your strengths",
-          "link": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
-          "description": "Health and science correspondent Allison Aubrey talks with Ailsa Chang about her new podcast Your Turn with Allison Aubrey \u2014 and they share a survey that can help us identify our m"
-        },
-        {
-          "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
-          "link": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
-          "description": "The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments \u2014 even as the next stage of the anti-fraud ef"
-        },
-        {
-          "title": "Make a 'sick day' kit for cold and flu season before your household gets hit",
-          "link": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season",
-          "description": "Cold and flu season is here. Before someone in your household gets hit, make sure you have these essential meds and comfort items in your medicine cabinet."
-        },
-        {
-          "title": "These workers help train robots who could one day steal their jobs",
-          "link": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
-          "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
         }
       ]
     }
