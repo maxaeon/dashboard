@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-21T15:12:30.770997+00:00",
+  "updated": "2026-10-22T15:14:53.717059+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
-          "description": "U.S. Democratic congressional nominee Brad Lander was detained along with about 80 American and Israeli rabbis and activists by Israeli security forces as they helped Palestinian o"
+          "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+          "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+          "description": "The Iguaz\u00fa Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Ni\u00f1o, has sent near-record volumes of water surging over "
         },
         {
-          "title": "Trump leans into unprecedented power ahead of midterm elections",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
-          "description": "Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term."
+          "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+          "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+          "description": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla."
         },
         {
-          "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
-          "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
-          "description": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate poll"
+          "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
+          "description": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fightin"
         },
         {
-          "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
-          "description": "The announcement of Hubbard's release came as talks got underway between Putin and White House envoy Steve Witkoff in Saint Petersburg focused on the latest U.S. efforts to end the"
+          "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
+          "description": "Republican U.S. Rep. David Valadao is fighting for reelection in central California. 6 in 10 residents of his district are covered by Medicaid, which he voted to cut last year."
         },
         {
-          "title": "2025 policing trend: Fewer serious crimes, more minor arrests",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase",
-          "description": "Arrests for more minor offenses, including vagrancy, rose in the U.S., even as violent crime rates dropped to historic lows, according to an analysis from criminal justice reform a"
+          "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
+          "description": "President Trump, seeking to reshape the voting map, prompted a rare wave of mid-decade redistricting that gave Republicans a boost for holding the House. But the voters will determ"
         },
         {
-          "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
-          "description": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giv"
+          "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
+          "description": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share o"
         },
         {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6003502/morning-news-brief",
-          "description": "Trump envoy Steve Witkoff to visit Russia in hopes of ending war, Trump campaigns in North Carolina, Saudi Arabia cancels 'Davos in the Desert' due to Houthi strikes."
+          "title": "Trump merchandise stores are closing: 'He has peaked'",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
+          "description": "At least four Trump merchandise stores have closed this year. Store owners say with Trump in his final term, there isn't as much to fire up his consumer fan base and sales have sof"
         },
         {
-          "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
-          "description": "India is plunged into political crisis after 130 million names were struck off voter rolls during a massive revision."
+          "title": "See how Big Tech is transforming Spain's landscape",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
+          "description": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers."
         }
       ]
     },
@@ -52,7 +52,12 @@
       "name": "Science",
       "items": [
         {
-          "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
+          "title": "New human data hints at psychedelics' potential to combat inflammation",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
+          "description": "Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first da"
+        },
+        {
+          "title": "How much does pregnancy cost? Be prepared with these tips",
           "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
           "description": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giv"
         },
@@ -85,11 +90,6 @@
           "title": "This week in science: sea monsters, long COVID patients' microbiome, elephant carcasses",
           "link": "https://www.npr.org/2026/10/15/nx-s1-5995400/this-week-in-science-sea-monsters-long-covid-patients-microbiome-elephant-carcasses",
           "description": "NPR's science podcast Short Wave brings us stories about the hunting habits of ancient sea monsters, the microbiome of long COVID patients, and how elephant carcasses replenish the"
-        },
-        {
-          "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
-          "link": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space",
-          "description": "The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition "
         }
       ]
     },
@@ -98,7 +98,32 @@
       "name": "Health",
       "items": [
         {
-          "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
+          "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
+          "description": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fightin"
+        },
+        {
+          "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
+          "description": "Republican U.S. Rep. David Valadao is fighting for reelection in central California. 6 in 10 residents of his district are covered by Medicaid, which he voted to cut last year."
+        },
+        {
+          "title": "Can a dream help you solve a problem? Here's how to try tonight",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6008129/dream-incubation-research-self-discovery",
+          "description": "What can you learn from dreams and how can you remember them and steer them to the topics you wish to dream about. Allison Aubrey and A Martinez discuss the resurgance in dream res"
+        },
+        {
+          "title": "High health costs squeeze workers, even if you have good insurance through a job",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6008153/health-insurance-costs-kff-commonwealth",
+          "description": "About 157 million Americans get their health insurance through work. A survey of employers shows a moderate price uptick this year, but workers still say health costs are a top con"
+        },
+        {
+          "title": "New human data hints at psychedelics' potential to combat inflammation",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
+          "description": "Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first da"
+        },
+        {
+          "title": "How much does pregnancy cost? Be prepared with these tips",
           "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
           "description": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giv"
         },
@@ -111,31 +136,6 @@
           "title": "Influencers are helping 'free birth' gain fans, despite medical risks",
           "link": "https://www.npr.org/2026/10/20/nx-s1-6003853/influencers-are-helping-free-birth-gain-fans-despite-medical-risks",
           "description": "The practice known as \"free birth\" \u2014 giving birth at home without a midwife \u2014 carries severe risks. But social media influencers are bringing attention and followers to the practic"
-        },
-        {
-          "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
-          "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
-          "description": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infec"
-        },
-        {
-          "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
-          "link": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
-          "description": "A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it's challenging but not \"daunting.\""
-        },
-        {
-          "title": "The Ebola crisis is far outpacing the response, Congo's IRC director says",
-          "link": "https://www.npr.org/2026/10/19/nx-s1-6005499/the-ebola-crisis-is-far-outpacing-the-response-congos-irc-director-says",
-          "description": "Health workers battling the ongoing Ebola outbreak in Congo are hindered by lack of data, budget cuts and a fearful community."
-        },
-        {
-          "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
-          "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
-          "description": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own "
-        },
-        {
-          "title": "Hot flashes, night sweats, insomnia \u2013 OB-GYNS set new rules for menopause treatment",
-          "link": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
-          "description": "For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause."
         }
       ]
     }
