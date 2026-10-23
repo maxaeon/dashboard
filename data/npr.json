@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-22T15:14:53.717059+00:00",
+  "updated": "2026-10-23T15:01:59.015592+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-          "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
-          "description": "The Iguaz\u00fa Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Ni\u00f1o, has sent near-record volumes of water surging over "
+          "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+          "description": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?"
         },
         {
-          "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-          "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-          "description": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla."
+          "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+          "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+          "description": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries."
         },
         {
-          "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
-          "description": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fightin"
+          "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+          "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+          "description": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already vote"
         },
         {
-          "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
-          "description": "Republican U.S. Rep. David Valadao is fighting for reelection in central California. 6 in 10 residents of his district are covered by Medicaid, which he voted to cut last year."
+          "title": "Why Meta is charging to post more hyperlinks",
+          "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
+          "description": "Social media sites aren't the biggest fans of people leaving via hyperlinks. In fact, Meta has made it subscription-worthy for a Facebook Page to post more than two hyperlinks per "
         },
         {
-          "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
-          "description": "President Trump, seeking to reshape the voting map, prompted a rare wave of mid-decade redistricting that gave Republicans a boost for holding the House. But the voters will determ"
+          "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+          "description": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were"
         },
         {
-          "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
-          "description": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share o"
+          "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+          "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+          "description": "Governments around the world are rushing to implement safety measures after AI technology found 'severe' vulnerabilities in a key programming language called PHP."
         },
         {
-          "title": "Trump merchandise stores are closing: 'He has peaked'",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-          "description": "At least four Trump merchandise stores have closed this year. Store owners say with Trump in his final term, there isn't as much to fire up his consumer fan base and sales have sof"
+          "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
+          "description": "As many colleges roll back or eliminate such programs, Sacramento State has expanded its offerings for students of color."
         },
         {
-          "title": "See how Big Tech is transforming Spain's landscape",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
-          "description": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers."
+          "title": "With jet fuel prices near a record, holiday airfares soar higher",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
+          "description": "If you're planning to fly this holiday season, be prepared to pay more than you did last year. The price of jet fuel \u2014 one of airlines' biggest expenses \u2014 is close to an all-time h"
         }
       ]
     },
@@ -51,6 +51,11 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Should 'bird brain' be a compliment? Here's how crows think fast",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6010587/should-bird-brain-be-a-compliment-heres-how-crows-think-fast",
+          "description": "New research in the journal Science finds that crows turn visual information into decisions twice as fast as humans and primates. They also process information is quite similarly t"
+        },
         {
           "title": "New human data hints at psychedelics' potential to combat inflammation",
           "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
@@ -85,11 +90,6 @@
           "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
           "link": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
           "description": "Manhattan's Upper West Side has been reveling in the company of its latest celebrities: A family of barn owls nested in a water tower atop a building near Central Park."
-        },
-        {
-          "title": "This week in science: sea monsters, long COVID patients' microbiome, elephant carcasses",
-          "link": "https://www.npr.org/2026/10/15/nx-s1-5995400/this-week-in-science-sea-monsters-long-covid-patients-microbiome-elephant-carcasses",
-          "description": "NPR's science podcast Short Wave brings us stories about the hunting habits of ancient sea monsters, the microbiome of long COVID patients, and how elephant carcasses replenish the"
         }
       ]
     },
@@ -98,7 +98,22 @@
       "name": "Health",
       "items": [
         {
-          "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+          "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+          "description": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?"
+        },
+        {
+          "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+          "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+          "description": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries."
+        },
+        {
+          "title": "Why going on a 'say no' retreat is a gift to your future self",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
+          "description": "It's a day to think about all the upcoming appointments and commitments you're dreading \u2014 and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the d"
+        },
+        {
+          "title": "Achy from sitting at a desk all day? Try doing this",
           "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
           "description": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fightin"
         },
@@ -121,21 +136,6 @@
           "title": "New human data hints at psychedelics' potential to combat inflammation",
           "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
           "description": "Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first da"
-        },
-        {
-          "title": "How much does pregnancy cost? Be prepared with these tips",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
-          "description": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giv"
-        },
-        {
-          "title": "Actor Christina Applegate says she was misdiagnosed with multiple sclerosis",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6009382/actor-christina-applegate-says-she-was-misdiagnosed-with-multiple-sclerosis",
-          "description": "Actor Christina Applegate revealed she was misdiagnosed with multiple sclerosis. NPR's A Mart\u00ednez speaks with neurologist Michael Kornberg about how MS can be misdiagnosed."
-        },
-        {
-          "title": "Influencers are helping 'free birth' gain fans, despite medical risks",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-6003853/influencers-are-helping-free-birth-gain-fans-despite-medical-risks",
-          "description": "The practice known as \"free birth\" \u2014 giving birth at home without a midwife \u2014 carries severe risks. But social media influencers are bringing attention and followers to the practic"
         }
       ]
     }
