@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-23T15:01:59.015592+00:00",
+  "updated": "2026-10-24T13:59:15.322612+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
-          "description": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?"
+          "title": "Perspective: The next James Bond",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
+          "description": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?"
         },
         {
-          "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
-          "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
-          "description": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries."
+          "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+          "description": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday."
         },
         {
-          "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
-          "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
-          "description": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already vote"
+          "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+          "description": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan."
         },
         {
-          "title": "Why Meta is charging to post more hyperlinks",
-          "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
-          "description": "Social media sites aren't the biggest fans of people leaving via hyperlinks. In fact, Meta has made it subscription-worthy for a Facebook Page to post more than two hyperlinks per "
+          "title": "U.S. birth rate drops to record low, but older women are having more babies",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+          "description": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women o"
         },
         {
-          "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
-          "description": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were"
+          "title": "This decade has been missing its big-impact midterm",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
+          "description": "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly."
         },
         {
-          "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-          "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-          "description": "Governments around the world are rushing to implement safety measures after AI technology found 'severe' vulnerabilities in a key programming language called PHP."
+          "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+          "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+          "description": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a deca"
         },
         {
-          "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
-          "description": "As many colleges roll back or eliminate such programs, Sacramento State has expanded its offerings for students of color."
+          "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+          "description": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues."
         },
         {
-          "title": "With jet fuel prices near a record, holiday airfares soar higher",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
-          "description": "If you're planning to fly this holiday season, be prepared to pay more than you did last year. The price of jet fuel \u2014 one of airlines' biggest expenses \u2014 is close to an all-time h"
+          "title": "Russia steps up election influence efforts in final stretch of midterms",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
+          "description": "Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they've used to sow distrust and discord in previous elections in the U.S. and arou"
         }
       ]
     },
@@ -51,6 +51,16 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Time expert Philippe Richard on why scientists are changing how we keep time",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6011081/time-expert-philippe-richard-on-why-scientists-are-changing-how-we-keep-time",
+          "description": "Scientists have voted to change how the world keeps time, but most people won't even notice. NPR's Scott Simon talks to Philippe Richard, director of Switzerland's Federal Institut"
+        },
+        {
+          "title": "The latest in space science: We look back at the Big Bang",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6008076/the-latest-in-space-science-we-look-back-at-the-big-bang",
+          "description": "In this edition of Spacing Out, the team from Short Wave shares the latest developments in space science, including the theory on why the universe is made of matter"
+        },
         {
           "title": "Should 'bird brain' be a compliment? Here's how crows think fast",
           "link": "https://www.npr.org/2026/10/22/nx-s1-6010587/should-bird-brain-be-a-compliment-heres-how-crows-think-fast",
@@ -80,16 +90,6 @@
           "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
           "link": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
           "description": "Rescuers in Indonesia have saved dozens of orangutans from wildfires. The critically endangered species is fighting for their lives and habitats during this deadly wildfire season."
-        },
-        {
-          "title": "Hot flashes, night sweats, insomnia \u2013 OB-GYNS set new rules for menopause treatment",
-          "link": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
-          "description": "For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause."
-        },
-        {
-          "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
-          "link": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
-          "description": "Manhattan's Upper West Side has been reveling in the company of its latest celebrities: A family of barn owls nested in a water tower atop a building near Central Park."
         }
       ]
     },
@@ -98,7 +98,12 @@
       "name": "Health",
       "items": [
         {
-          "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+          "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+          "description": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan."
+        },
+        {
+          "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
           "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
           "description": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?"
         },
@@ -131,11 +136,6 @@
           "title": "High health costs squeeze workers, even if you have good insurance through a job",
           "link": "https://www.npr.org/2026/10/22/nx-s1-6008153/health-insurance-costs-kff-commonwealth",
           "description": "About 157 million Americans get their health insurance through work. A survey of employers shows a moderate price uptick this year, but workers still say health costs are a top con"
-        },
-        {
-          "title": "New human data hints at psychedelics' potential to combat inflammation",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
-          "description": "Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first da"
         }
       ]
     }
