@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-24T13:59:15.322612+00:00",
+  "updated": "2026-10-25T14:20:58.559466+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Perspective: The next James Bond",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
-          "description": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?"
+          "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+          "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+          "description": "The students, many from marginalized communities, learn to conjure up candy, do card tricks \u2014 and face the world with a confident, creative and resilient mindset."
         },
         {
-          "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-          "description": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday."
+          "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
+          "description": "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy."
         },
         {
-          "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
-          "description": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan."
+          "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
+          "description": "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kid"
         },
         {
-          "title": "U.S. birth rate drops to record low, but older women are having more babies",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
-          "description": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women o"
+          "title": "Independent candidates sense a moment. Some Democrats hope they're right.",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
+          "description": "As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own b"
         },
         {
-          "title": "This decade has been missing its big-impact midterm",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
-          "description": "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly."
+          "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
+          "description": "In a sign of the potentially dire midterm political environment, Republicans have spent millions of dollars playing defense in Arkansas, one of the most conservative states in the "
         },
         {
-          "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-          "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-          "description": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a deca"
+          "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+          "description": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana."
         },
         {
-          "title": "Severe flooding hits Four Corners region, more expected through the weekend",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
-          "description": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues."
+          "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
+          "description": "Record diesel prices are kicking Western ranchers while they're down. Drought means they have to buy extra hay, and pay truckers extra to deliver it because of fuel price hikes."
         },
         {
-          "title": "Russia steps up election influence efforts in final stretch of midterms",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
-          "description": "Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they've used to sow distrust and discord in previous elections in the U.S. and arou"
+          "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
+          "description": "The 1,300 survivors of sexual abuse by clergy members and lay workers have all agreed to the settlement, according to an attorney for some of the plaintiffs."
         }
       ]
     },
@@ -98,6 +98,21 @@
       "name": "Health",
       "items": [
         {
+          "title": "What people aged 50 and older need to know about flu shots",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6013576/what-people-aged-50-and-older-need-to-know-about-flu-shots",
+          "description": "NPR's Ayesha Rascoe asks Dr. Ann Falsey of the University of Rochester Medical School about flu shots for people aged 50 and older."
+        },
+        {
+          "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+          "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+          "description": "The students, many from marginalized communities, learn to conjure up candy, do card tricks \u2014 and face the world with a confident, creative and resilient mindset."
+        },
+        {
+          "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
+          "description": "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kid"
+        },
+        {
           "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
           "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
           "description": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan."
@@ -121,21 +136,6 @@
           "title": "Achy from sitting at a desk all day? Try doing this",
           "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
           "description": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fightin"
-        },
-        {
-          "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
-          "description": "Republican U.S. Rep. David Valadao is fighting for reelection in central California. 6 in 10 residents of his district are covered by Medicaid, which he voted to cut last year."
-        },
-        {
-          "title": "Can a dream help you solve a problem? Here's how to try tonight",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6008129/dream-incubation-research-self-discovery",
-          "description": "What can you learn from dreams and how can you remember them and steer them to the topics you wish to dream about. Allison Aubrey and A Martinez discuss the resurgance in dream res"
-        },
-        {
-          "title": "High health costs squeeze workers, even if you have good insurance through a job",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6008153/health-insurance-costs-kff-commonwealth",
-          "description": "About 157 million Americans get their health insurance through work. A survey of employers shows a moderate price uptick this year, but workers still say health costs are a top con"
         }
       ]
     }
