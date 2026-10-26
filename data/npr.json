@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-25T14:20:58.559466+00:00",
+  "updated": "2026-10-26T16:47:00.519638+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
-          "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
-          "description": "The students, many from marginalized communities, learn to conjure up candy, do card tricks \u2014 and face the world with a confident, creative and resilient mindset."
+          "title": "AI giant Anthropic files for an IPO that could break records",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+          "description": "The AI company, which makes the popular Claude chatbot, has filed for an initial public offering that could be one of the biggest ever."
         },
         {
-          "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
-          "description": "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy."
+          "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
+          "link": "https://www.npr.org/2026/10/26/g-s1-149923/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+          "description": "Andre McKechnie, 55, is serving a life sentence for murder. He took his battle for the salty, sticky, black-brown byproduct of brewing beer to the court last year. He argued being "
         },
         {
-          "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
-          "description": "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kid"
+          "title": "What to know about China's plenum as Xi seeks stronger party discipline",
+          "link": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline",
+          "description": "This closed-door gathering that started Monday comes about a year before Xi is expected to secure a fourth term and personnel changes to key leadership bodies."
         },
         {
-          "title": "Independent candidates sense a moment. Some Democrats hope they're right.",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
-          "description": "As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own b"
+          "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+          "link": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+          "description": "Republicans are spending millions on the midterms, and they still may not win districts drawn to favor them. And, Brazil's Luiz In\u00e1cio Lula da Silva won a fourth term in a stunning"
         },
         {
-          "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
-          "description": "In a sign of the potentially dire midterm political environment, Republicans have spent millions of dollars playing defense in Arkansas, one of the most conservative states in the "
+          "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
+          "description": "President Trump intensified his anti-Muslim rhetoric against Michigan Senate candidate Abdul El-Sayed on Sunday, portraying him as a threat to national security and questioning his"
         },
         {
-          "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
-          "description": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana."
+          "title": "Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage",
+          "description": "What makes special education teaching jobs so hard to fill? NPR set out to find some answers by talking to more than a dozen teachers who do this work every day."
         },
         {
-          "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-          "description": "Record diesel prices are kicking Western ranchers while they're down. Drought means they have to buy extra hay, and pay truckers extra to deliver it because of fuel price hikes."
+          "title": "How AI is transforming hurricane forecasts",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
+          "description": "Hurricane forecasters are increasingly using artificial intelligence to make predictions."
         },
         {
-          "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
-          "description": "The 1,300 survivors of sexual abuse by clergy members and lay workers have all agreed to the settlement, according to an attorney for some of the plaintiffs."
+          "title": "Loggers say Roadless Rule repeal won't solve their biggest challenges",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6009247/loggers-say-roadless-rule-repeal-wont-solve-their-biggest-challenges",
+          "description": "President Trump is planning to open up some of the nation's last pristine forests to road building and timber companies. But those who work in the woods say it won't do enough to r"
         }
       ]
     },
@@ -51,6 +51,11 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "How AI is transforming hurricane forecasts",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
+          "description": "Hurricane forecasters are increasingly using artificial intelligence to make predictions."
+        },
         {
           "title": "Time expert Philippe Richard on why scientists are changing how we keep time",
           "link": "https://www.npr.org/2026/10/24/nx-s1-6011081/time-expert-philippe-richard-on-why-scientists-are-changing-how-we-keep-time",
@@ -85,11 +90,6 @@
           "title": "What time is it on the moon?",
           "link": "https://www.npr.org/2026/10/18/nx-s1-6003578/what-time-is-it-on-the-moon",
           "description": "James Olthoff, a delegate to the International Bureau of Weights and Measures, talks to NPR's Joel Rose about why it's important to accurately measure time on the moon."
-        },
-        {
-          "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
-          "description": "Rescuers in Indonesia have saved dozens of orangutans from wildfires. The critically endangered species is fighting for their lives and habitats during this deadly wildfire season."
         }
       ]
     },
@@ -98,12 +98,32 @@
       "name": "Health",
       "items": [
         {
+          "title": "Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage",
+          "description": "What makes special education teaching jobs so hard to fill? NPR set out to find some answers by talking to more than a dozen teachers who do this work every day."
+        },
+        {
+          "title": "Merck's melanoma vaccine trial shows reduced recurrence or death from skin cancer",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6013568/mercks-melanoma-vaccine-trial-shows-reduced-recurrence-or-death-from-skin-cancer",
+          "description": "Merck presented its mRNA melanoma vaccine trial data at a European cancer conference this weekend. Results are promising: The vaccine reduces recurrence and death alongside an immu"
+        },
+        {
+          "title": "Some people with meat allergies from alpha-gal syndrome turn to exotic alternatives",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6009462/some-people-with-meat-allergies-from-alpha-gal-syndrome-turn-to-exotic-alternatives",
+          "description": "People with Alpha-Gal Syndrome can have allergic reactions to meat from mammals. Many of those affected change their diets to eat other proteins."
+        },
+        {
+          "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+          "description": "Pennsylvania is the worst hit state, with at least 1,338 cases of measles confirmed in 44 counties so far this year, according to the Pennsylvania Department of Health."
+        },
+        {
           "title": "What people aged 50 and older need to know about flu shots",
           "link": "https://www.npr.org/2026/10/25/nx-s1-6013576/what-people-aged-50-and-older-need-to-know-about-flu-shots",
           "description": "NPR's Ayesha Rascoe asks Dr. Ann Falsey of the University of Rochester Medical School about flu shots for people aged 50 and older."
         },
         {
-          "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+          "title": "This College of Magic turns ordinary kids into cool magicians",
           "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
           "description": "The students, many from marginalized communities, learn to conjure up candy, do card tricks \u2014 and face the world with a confident, creative and resilient mindset."
         },
@@ -116,26 +136,6 @@
           "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
           "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
           "description": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan."
-        },
-        {
-          "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
-          "description": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?"
-        },
-        {
-          "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
-          "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
-          "description": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries."
-        },
-        {
-          "title": "Why going on a 'say no' retreat is a gift to your future self",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
-          "description": "It's a day to think about all the upcoming appointments and commitments you're dreading \u2014 and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the d"
-        },
-        {
-          "title": "Achy from sitting at a desk all day? Try doing this",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
-          "description": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fightin"
         }
       ]
     }
