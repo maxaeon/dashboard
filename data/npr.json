@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-27T15:52:14.239076+00:00",
+  "updated": "2026-10-28T16:36:14.812877+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
-          "description": "Brazil's opposition party accepts Lula's election victory, but Fl\u00e1vio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence."
+          "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+          "description": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"S\u00ed, se puede!\" that became a widespr"
         },
         {
-          "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
-          "description": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: Is the rap mogul's self-selection a crowning achievement or a final affro"
+          "title": "What's gone up even faster than gas or rent? The cost of caregiving",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+          "description": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years."
         },
         {
-          "title": "A 'Green Army' is out to thwart El Ni\u00f1o flooding",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
-          "description": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Ni\u00f1o arrives."
+          "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+          "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+          "description": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first decla"
         },
         {
-          "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-          "link": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
-          "description": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that coul"
+          "title": "Dozens are dead in a high-speed train crash in Spain",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+          "description": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train a"
         },
         {
-          "title": "How Aldi is pushing down grocery prices",
-          "link": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
-          "description": "The German-owned chain's low prices are winning over shoppers \u2014 and pushing competitors to respond."
+          "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+          "description": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter c"
         },
         {
-          "title": "Polymarket has investigated 'dozens' of election-related cases",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
-          "description": "The prediction market has hired a former FBI official to make sure political insiders don't use the platform for profit from confidential election information."
+          "title": "New teachers union president wants to steer educators away from partisan politics",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-5953069/national-education-association-nea-president-princess-moss-politics",
+          "description": "NEA President Princess Moss wants to move her organization, the nation's largest labor union, toward issue-based advocacy \u2014 and away from party politics."
         },
         {
-          "title": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
-          "description": "Mississippi has the largest proportional Black population in the country. It's one reason the U.S. Senate race has seen millions in last-minute spending and high-profile campaign v"
+          "title": "Partnerships between ICE and local police surge, report finds",
+          "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
+          "description": "The number of state and local officers working with Immigration and Customs Enforcement has doubled in size in the last eight months, according to a new report from the immigration"
         },
         {
-          "title": "Democrats still poised to make gains, but poll shows warning signs for just how many",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
-          "description": "Democrats hold significant advantages going into Election Day, according to a new NPR/PBS News/Marist poll. But lagging enthusiasm among key groups is just one indicator that gains"
+          "title": "Why many student voters have a right to choose where to register to vote",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
+          "description": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those "
         }
       ]
     },
@@ -98,6 +98,26 @@
       "name": "Health",
       "items": [
         {
+          "title": "What's gone up even faster than gas or rent? The cost of caregiving",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+          "description": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years."
+        },
+        {
+          "title": "Are you an organ donor? Here are some rule changes you may want to know",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
+          "description": "Transplant teams can talk to families about organ donation before they've decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidde"
+        },
+        {
+          "title": "Some people with meat allergies from alpha-gal syndrome turn to exotic alternatives",
+          "link": "https://www.npr.org/2026/10/27/nx-s1-6009462-e1/some-people-with-meat-allergies-from-alpha-gal-syndrome-turn-to-exotic-alternatives",
+          "description": "People with alpha-gal syndrome can have allergic reactions to meat from mammals. Many of those affected change their diets to eat other proteins."
+        },
+        {
+          "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
+          "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
+          "description": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?"
+        },
+        {
           "title": "A 'Green Army' is out to thwart El Ni\u00f1o flooding",
           "link": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
           "description": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Ni\u00f1o arrives."
@@ -116,26 +136,6 @@
           "title": "Some people with meat allergies from alpha-gal syndrome turn to exotic alternatives",
           "link": "https://www.npr.org/2026/10/26/nx-s1-6009462/some-people-with-meat-allergies-from-alpha-gal-syndrome-turn-to-exotic-alternatives",
           "description": "People with Alpha-Gal Syndrome can have allergic reactions to meat from mammals. Many of those affected change their diets to eat other proteins."
-        },
-        {
-          "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
-          "description": "Pennsylvania is the worst hit state, with at least 1,338 cases of measles confirmed in 44 counties so far this year, according to the Pennsylvania Department of Health."
-        },
-        {
-          "title": "What people aged 50 and older need to know about flu shots",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-6013576/what-people-aged-50-and-older-need-to-know-about-flu-shots",
-          "description": "NPR's Ayesha Rascoe asks Dr. Ann Falsey of the University of Rochester Medical School about flu shots for people aged 50 and older."
-        },
-        {
-          "title": "This College of Magic turns ordinary kids into cool magicians",
-          "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
-          "description": "The students, many from marginalized communities, learn to conjure up candy, do card tricks \u2014 and face the world with a confident, creative and resilient mindset."
-        },
-        {
-          "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
-          "description": "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kid"
         }
       ]
     }
