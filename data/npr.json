@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-30T16:41:00.745728+00:00",
+  "updated": "2026-10-31T15:42:56.138119+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "NPR special: 5 takeaways from a year of listening to swing voters",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
-          "description": "Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and"
+          "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+          "description": "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race."
         },
         {
-          "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-          "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-          "description": "The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack."
+          "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
+          "description": "Former President Obama caused a kerfuffle with his comments about President Trump's interior decorating at the White House. But maybe state dinners should happen at The Cheesecake "
         },
         {
-          "title": "Why is the Cheesecake Factory at the center of the latest culture war?",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
-          "description": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections."
+          "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+          "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+          "description": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground."
         },
         {
-          "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
-          "description": "It wasn't immediately clear the extent of the damage hackers might have been able to cause, and Binance had not explicitly confirmed that funds had been pilfered. The company said "
+          "title": "Do you have seasonal affective disorder? How to tell \u2014 and what to do about it",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
+          "description": "The syndrome can make people feel like a \"hibernating bear,\" says Dr. Norman Rosenthal, who published the first research on SAD. He explains how to identify the symptoms and what t"
         },
         {
-          "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
-          "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
-          "description": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for poten"
+          "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
+          "description": "In October, 2025, the remnants of a typhoon seriously damaged Alaska Native villages in the far western part of the state. A year later, one of the hardest hit communities is still"
         },
         {
-          "title": "The two most interesting risks to Anthropic",
-          "link": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
-          "description": "Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out."
+          "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+          "link": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
+          "description": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win c"
         },
         {
-          "title": "How powerful is Elon Musk? How his political influence compares to past U.S. moguls",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6019325/elon-musk-power-moguls-politics",
-          "description": "Critics say the tech entrepreneur's enormous wealth has given him too much political power. But when stacked up against other notable American moguls, historians say he's not uniqu"
+          "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+          "description": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark s"
         },
         {
-          "title": "Democrats seek to weaken the Republican lead in state legislatures",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
-          "description": "Republicans control 10 more state legislatures than Democrats. That's where most laws on taxes, abortion, crime and schools are made."
+          "title": "Your writing was flagged as AI. What does that actually mean?",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+          "description": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a"
         }
       ]
     },
@@ -51,6 +51,16 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+          "description": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species. Now, researchers and"
+        },
+        {
+          "title": "This week in science: mysterious X-rays, movement and learning, and memory formation",
+          "link": "https://www.npr.org/2026/10/30/nx-s1-6013638/this-week-in-science-mysterious-x-rays-movement-and-learning-and-memory-formation",
+          "description": "Emily Kwong and Ari Daniel of NPR's Short Wave talk about mysterious X-ray objects, the link between movement and learning and how a small part of the brain triggers memory formati"
+        },
         {
           "title": "Even birds get jet lagged, study shows",
           "link": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
@@ -80,16 +90,6 @@
           "title": "Should 'bird brain' be a compliment? Here's how crows think fast",
           "link": "https://www.npr.org/2026/10/22/nx-s1-6010587/should-bird-brain-be-a-compliment-heres-how-crows-think-fast",
           "description": "New research in the journal Science finds that crows turn visual information into decisions twice as fast as humans and primates. They also process information is quite similarly t"
-        },
-        {
-          "title": "New human data hints at psychedelics' potential to combat inflammation",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
-          "description": "Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first da"
-        },
-        {
-          "title": "How much does pregnancy cost? Be prepared with these tips",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
-          "description": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giv"
         }
       ]
     },
@@ -97,6 +97,16 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+          "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+          "description": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground."
+        },
+        {
+          "title": "Do you have seasonal affective disorder? How to tell \u2014 and what to do about it",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
+          "description": "The syndrome can make people feel like a \"hibernating bear,\" says Dr. Norman Rosenthal, who published the first research on SAD. He explains how to identify the symptoms and what t"
+        },
         {
           "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
           "link": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
@@ -126,16 +136,6 @@
           "title": "New blood test can detect changes associated with Alzheimer's disease",
           "link": "https://www.npr.org/2026/10/29/nx-s1-6019546/new-blood-test-can-detect-changes-associated-with-alzheimers-disease",
           "description": "Brain changes associated with Alzheimer's disease can be detected by a new type of blood test -- and a growing number of patients are asking their doctors about it."
-        },
-        {
-          "title": "Eleven states cut Medicaid coverage for refugees who are pregnant or children",
-          "link": "https://www.npr.org/2026/10/29/nx-s1-5995636/refugees-in-11-states-are-losing-medicaid-coverage",
-          "description": "When Congress cut Medicaid benefits for refugees who are in the U.S. legally, most states allowed them to continue for children and pregnant women. Arizona and 10 others did not."
-        },
-        {
-          "title": "Trump administration will allow pharmacies to make popular peptides",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
-          "description": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be en"
         }
       ]
     }
