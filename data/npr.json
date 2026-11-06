@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-05T17:59:22.700603+00:00",
+  "updated": "2026-11-06T17:28:04.597390+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat",
-          "description": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: How Yung Miami's summer bop became a sweeping indictment."
+          "title": "European air traffic is targeted by new threats after a week of hoaxes",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+          "description": "Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, following a string of hoaxes that have caused flight diversions this week. Two bro"
         },
         {
-          "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
-          "description": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against th"
+          "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+          "description": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus."
         },
         {
-          "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
-          "description": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high."
+          "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
+          "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
+          "description": "Au's arrest last year was the first publicly known prosecution under Macao's national security law since it was enacted in 2009."
         },
         {
-          "title": "Teens worldwide aren't getting enough exercise -- especially girls",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
-          "description": "A new study looks at the recommended amount of daily exercise for adolescents \u2014 and how few are getting it."
+          "title": "Hiring jumps: The economy added 165,000 jobs last month",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
+          "description": "The U.S. job market improved last month, according to a report from the Labor Department Friday. Employers added more jobs than forecasters had expected and the unemployment rate d"
         },
         {
-          "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-          "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
-          "description": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect"
+          "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+          "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+          "description": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day a"
         },
         {
-          "title": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities",
-          "description": "Sen. Kirsten Gillibrand spoke with Morning Edition about Democrats' priorities, from lowering costs to ending the Iran war. But questions remain about how they'll deliver."
+          "title": "Why gold prices are surprisingly low",
+          "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
+          "description": "Gold tends to go up when there's uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. What'"
         },
         {
-          "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
-          "description": "A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day. Critics hope a judge will inte"
+          "title": "'He's got to go': Hakeem Jeffries calls for Hegseth's removal but stops short of impeachment",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6030799/democrats-ran-on-affordability-how-will-the-party-make-it-happen",
+          "description": "Speaking with Morning Edition, Hakeem Jeffries discussed ending the Iran war, holding Trump accountable and calls for new Democratic leadership, but offered few specifics on how De"
         },
         {
-          "title": "The South flexes political power in midterms, sets regional influence in 2028 election",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas",
-          "description": "Tuesday's dramatic midterm results have transformed the electoral map, ensuring the path to future power for Democrats and Republicans must run through the South and its diverse vo"
+          "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
+          "description": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis \u2014 health, workplace, family conflicts \u2014 and \"turn fear into action.\""
         }
       ]
     },
@@ -98,6 +98,11 @@
       "name": "Health",
       "items": [
         {
+          "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
+          "description": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis \u2014 health, workplace, family conflicts \u2014 and \"turn fear into action.\""
+        },
+        {
           "title": "Teens worldwide aren't getting enough exercise -- especially girls",
           "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
           "description": "A new study looks at the recommended amount of daily exercise for adolescents \u2014 and how few are getting it."
@@ -131,11 +136,6 @@
           "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
           "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
           "description": "The ACA health insurance marketplaces \u2014 find yours at HealthCare.gov \u2014 open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year."
-        },
-        {
-          "title": "How one family gave a critical boost to gene therapy research",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
-          "description": "A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible."
         }
       ]
     }
