@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-06T17:28:04.597390+00:00",
+  "updated": "2026-11-07T16:23:55.025105+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "European air traffic is targeted by new threats after a week of hoaxes",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
-          "description": "Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, following a string of hoaxes that have caused flight diversions this week. Two bro"
+          "title": "A promising new medicine against heart disease fails unexpectedly",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+          "description": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference."
         },
         {
-          "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-          "description": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus."
+          "title": "Democrats plan to widen their probes of fatal ICE shootings",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
+          "description": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their dea"
         },
         {
-          "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
-          "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
-          "description": "Au's arrest last year was the first publicly known prosecution under Macao's national security law since it was enacted in 2009."
+          "title": "Perspective: Simon Winchester was here to tell a story",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
+          "description": "British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Waterga"
         },
         {
-          "title": "Hiring jumps: The economy added 165,000 jobs last month",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
-          "description": "The U.S. job market improved last month, according to a report from the Labor Department Friday. Employers added more jobs than forecasters had expected and the unemployment rate d"
+          "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+          "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+          "description": "This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates \u2014 including an 18-year-old guy in India who founded Team Period."
         },
         {
-          "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
-          "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-          "description": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day a"
+          "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+          "description": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who'd been evicted after a pay cut and became a leader of a community effort that blo"
         },
         {
-          "title": "Why gold prices are surprisingly low",
-          "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
-          "description": "Gold tends to go up when there's uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. What'"
+          "title": "The economy propelled Democrats to victory. What can they actually do about it?",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+          "description": "The party's success was fueled by frustrations over the cost of living. But in divided government, they'll face opposition from Republicans in Congress and a president vowing to us"
         },
         {
-          "title": "'He's got to go': Hakeem Jeffries calls for Hegseth's removal but stops short of impeachment",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6030799/democrats-ran-on-affordability-how-will-the-party-make-it-happen",
-          "description": "Speaking with Morning Edition, Hakeem Jeffries discussed ending the Iran war, holding Trump accountable and calls for new Democratic leadership, but offered few specifics on how De"
+          "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+          "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+          "description": "Israel's center-right opposition has a chance to unseat Netanyahu \u2014 but backing of Arab-led parties will be key."
         },
         {
-          "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
-          "description": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis \u2014 health, workplace, family conflicts \u2014 and \"turn fear into action.\""
+          "title": "The incoming class of U.S. senators is full of historic firsts",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+          "description": "From the first Native American woman elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic cand"
         }
       ]
     },
@@ -51,6 +51,11 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "How octopuses squeeze through teeny tiny holes",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6027897/how-octopuses-squeeze-through-teeny-tiny-holes",
+          "description": "Robots used during search and rescue operations need to be able to wriggle through narrow cracks and crevices. Researchers have turned to a natural contortionist for inspiration \u2014 "
+        },
         {
           "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
           "link": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
@@ -85,11 +90,6 @@
           "title": "The latest in space science: We look back at the Big Bang",
           "link": "https://www.npr.org/2026/10/23/nx-s1-6008076/the-latest-in-space-science-we-look-back-at-the-big-bang",
           "description": "In this edition of Spacing Out, the team from Short Wave shares the latest developments in space science, including the theory on why the universe is made of matter"
-        },
-        {
-          "title": "Should 'bird brain' be a compliment? Here's how crows think fast",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6010587/should-bird-brain-be-a-compliment-heres-how-crows-think-fast",
-          "description": "New research in the journal Science finds that crows turn visual information into decisions twice as fast as humans and primates. They also process information is quite similarly t"
         }
       ]
     },
@@ -97,6 +97,26 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "A promising new medicine against heart disease fails unexpectedly",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+          "description": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference."
+        },
+        {
+          "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+          "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+          "description": "This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates \u2014 including an 18-year-old guy in India who founded Team Period."
+        },
+        {
+          "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+          "description": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?"
+        },
+        {
+          "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+          "description": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank."
+        },
         {
           "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
           "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
@@ -116,26 +136,6 @@
           "title": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others?",
           "link": "https://www.npr.org/2026/11/02/nx-s1-6009085/mrna-cancer-vaccine-pancreatic-skin",
           "description": "Researchers have been chasing the dream of a cancer vaccine for decades. Some recent successes with mRNA technology are garnering excitement from patients, doctors, government and "
-        },
-        {
-          "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
-          "link": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
-          "description": "Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite. What do dentists say about it?"
-        },
-        {
-          "title": "Do you know signs of a stroke? BE FAST are the words to remember",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
-          "description": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly."
-        },
-        {
-          "title": "Has Trump kept his promises to the MAHA movement?",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-6022240/has-trump-kept-his-promises-to-the-maha-movement",
-          "description": "It's been just over two years since the rise of Make America Healthy Again, or MAHA. How well is the Trump administration meeting its promises?"
-        },
-        {
-          "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
-          "description": "The ACA health insurance marketplaces \u2014 find yours at HealthCare.gov \u2014 open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year."
         }
       ]
     }
