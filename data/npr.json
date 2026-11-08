@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-07T16:23:55.025105+00:00",
+  "updated": "2026-11-08T16:38:58.173125+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "A promising new medicine against heart disease fails unexpectedly",
-          "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-          "description": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference."
+          "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+          "description": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak."
         },
         {
-          "title": "Democrats plan to widen their probes of fatal ICE shootings",
-          "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
-          "description": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their dea"
+          "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+          "description": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday."
         },
         {
-          "title": "Perspective: Simon Winchester was here to tell a story",
-          "link": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
-          "description": "British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Waterga"
+          "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+          "description": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature."
         },
         {
-          "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
-          "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
-          "description": "This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates \u2014 including an 18-year-old guy in India who founded Team Period."
+          "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+          "description": "El Ni\u00f1o rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth."
         },
         {
-          "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-          "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-          "description": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who'd been evicted after a pay cut and became a leader of a community effort that blo"
+          "title": "In Maine, a new approach to practicing medicine in the sky",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+          "description": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare w"
         },
         {
-          "title": "The economy propelled Democrats to victory. What can they actually do about it?",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-          "description": "The party's success was fueled by frustrations over the cost of living. But in divided government, they'll face opposition from Republicans in Congress and a president vowing to us"
+          "title": "How Gen Z voters helped fuel a blue wave for Democrats",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
+          "description": "Republicans made gains with young voters in 2024, but in this year's midterms Americans under 30 issued a strong rebuke of President Trump and his party, voting decisively for Demo"
         },
         {
-          "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-          "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-          "description": "Israel's center-right opposition has a chance to unseat Netanyahu \u2014 but backing of Arab-led parties will be key."
+          "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+          "description": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White."
         },
         {
-          "title": "The incoming class of U.S. senators is full of historic firsts",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
-          "description": "From the first Native American woman elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic cand"
+          "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+          "description": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the"
         }
       ]
     },
@@ -51,6 +51,11 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+          "description": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature."
+        },
         {
           "title": "How octopuses squeeze through teeny tiny holes",
           "link": "https://www.npr.org/2026/11/06/nx-s1-6027897/how-octopuses-squeeze-through-teeny-tiny-holes",
@@ -85,11 +90,6 @@
           "title": "Time expert Philippe Richard on why scientists are changing how we keep time",
           "link": "https://www.npr.org/2026/10/24/nx-s1-6011081/time-expert-philippe-richard-on-why-scientists-are-changing-how-we-keep-time",
           "description": "Scientists have voted to change how the world keeps time, but most people won't even notice. NPR's Scott Simon talks to Philippe Richard, director of Switzerland's Federal Institut"
-        },
-        {
-          "title": "The latest in space science: We look back at the Big Bang",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6008076/the-latest-in-space-science-we-look-back-at-the-big-bang",
-          "description": "In this edition of Spacing Out, the team from Short Wave shares the latest developments in space science, including the theory on why the universe is made of matter"
         }
       ]
     },
@@ -97,6 +97,11 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "In Maine, a new approach to practicing medicine in the sky",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+          "description": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare w"
+        },
         {
           "title": "A promising new medicine against heart disease fails unexpectedly",
           "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
@@ -118,7 +123,7 @@
           "description": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank."
         },
         {
-          "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
+          "title": "His 1-year-old faced heart failure. His new book tells how to cope in a health crisis",
           "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
           "description": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis \u2014 health, workplace, family conflicts \u2014 and \"turn fear into action.\""
         },
@@ -131,11 +136,6 @@
           "title": "It was a big night for doctors to win seats in Congress, riding the blue wave",
           "link": "https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave",
           "description": "Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains."
-        },
-        {
-          "title": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others?",
-          "link": "https://www.npr.org/2026/11/02/nx-s1-6009085/mrna-cancer-vaccine-pancreatic-skin",
-          "description": "Researchers have been chasing the dream of a cancer vaccine for decades. Some recent successes with mRNA technology are garnering excitement from patients, doctors, government and "
         }
       ]
     }
