@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-08T16:38:58.173125+00:00",
+  "updated": "2026-11-09T20:42:11.858520+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-          "description": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak."
+          "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+          "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+          "description": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November."
         },
         {
-          "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
-          "description": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday."
+          "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+          "description": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women."
         },
         {
-          "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-          "description": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature."
+          "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+          "link": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+          "description": "Republicans have just weeks left of control of Congress. Here's what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confro"
         },
         {
-          "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
-          "description": "El Ni\u00f1o rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth."
+          "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
+          "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+          "description": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy\u2026before it unravels beyond repair.\""
         },
         {
-          "title": "In Maine, a new approach to practicing medicine in the sky",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
-          "description": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare w"
+          "title": "Democrats won big on issues like immigration. But ICE still has the money",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
+          "description": "Following Tuesday's \"blue wave,\" Democrats have vowed to reign in ICE's power. What could they actually accomplish?"
         },
         {
-          "title": "How Gen Z voters helped fuel a blue wave for Democrats",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
-          "description": "Republicans made gains with young voters in 2024, but in this year's midterms Americans under 30 issued a strong rebuke of President Trump and his party, voting decisively for Demo"
+          "title": "On wild Cumberland Island, a land swap proposal stirs controversy",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal",
+          "description": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia. But they have different ideas of how to best protect it."
         },
         {
-          "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-          "description": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White."
+          "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+          "description": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems."
         },
         {
-          "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-          "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
-          "description": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the"
+          "title": "U.N. climate talks begin today. Here are 3 things to know",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-6026787/climate-talks-antalya-turkey-cop31",
+          "description": "Countries are gathering in Antalya, Turkey, for the annual U.N. climate conference. Many are frustrated with the lack of focus on fossil fuels, the main driver of climate change."
         }
       ]
     },
@@ -51,6 +51,16 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+          "description": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems."
+        },
+        {
+          "title": "NASA is looking for astronauts to live and work on the Moon",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+          "description": "NASA needs more recruits in order to return to the moon after being gone more than half a century."
+        },
         {
           "title": "Climate change is altering the colors we see in the world: an illustrated journey",
           "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
@@ -80,16 +90,6 @@
           "title": "When an invasive fish is also tasty, Maryland schoolkids can help 'eat the problem'",
           "link": "https://www.npr.org/2026/10/26/nx-s1-5954211/invasive-blue-catfish-solution-schools-chesapeake-bay",
           "description": "The Chesapeake Bay, home to blue crabs and striped bass, has a new apex predator: the blue catfish. It's invasive and voracious. It's also delicious, which officials hope might hel"
-        },
-        {
-          "title": "How AI is transforming hurricane forecasts",
-          "link": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
-          "description": "Hurricane forecasters are increasingly using artificial intelligence to make predictions."
-        },
-        {
-          "title": "Time expert Philippe Richard on why scientists are changing how we keep time",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6011081/time-expert-philippe-richard-on-why-scientists-are-changing-how-we-keep-time",
-          "description": "Scientists have voted to change how the world keeps time, but most people won't even notice. NPR's Scott Simon talks to Philippe Richard, director of Switzerland's Federal Institut"
         }
       ]
     },
@@ -98,7 +98,12 @@
       "name": "Health",
       "items": [
         {
-          "title": "In Maine, a new approach to practicing medicine in the sky",
+          "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+          "description": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems."
+        },
+        {
+          "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
           "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
           "description": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare w"
         },
@@ -131,11 +136,6 @@
           "title": "Teens worldwide aren't getting enough exercise -- especially girls",
           "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
           "description": "A new study looks at the recommended amount of daily exercise for adolescents \u2014 and how few are getting it."
-        },
-        {
-          "title": "It was a big night for doctors to win seats in Congress, riding the blue wave",
-          "link": "https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave",
-          "description": "Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains."
         }
       ]
     }
