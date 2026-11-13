@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-12T18:15:46.661793+00:00",
+  "updated": "2026-11-13T17:42:24.604514+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
-          "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
-          "description": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight"
+          "title": "The Trump administration's voter roll crusade could continue",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+          "description": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new o"
         },
         {
-          "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
-          "link": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
-          "description": "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef."
+          "title": "Does Europe regret its bet on U.S. defense?",
+          "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+          "description": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs."
         },
         {
-          "title": "D.C. shooting leaves 1 person killed, 4 injured. Gunman dead",
-          "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
-          "description": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to po"
+          "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+          "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+          "description": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreig"
         },
         {
-          "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
-          "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
-          "description": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr"
+          "title": "Remembering singer and actor Peggy King",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king",
+          "description": "King, who died Oct. 25, got her start singing in big bands in the 1950s. She had a string of hits, a contract with MGM and was a popular fixture on TV variety shows. Originally bro"
         },
         {
-          "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
-          "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
-          "description": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas educa"
+          "title": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
+          "description": "Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manche"
         },
         {
-          "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
-          "link": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
-          "description": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly"
+          "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+          "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+          "description": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for m"
         },
         {
-          "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
-          "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-          "description": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investiga"
+          "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+          "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+          "description": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!"
         },
         {
-          "title": "At least 23 states considered laws governing ICE and schools this year",
-          "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
-          "description": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies."
+          "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+          "description": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited."
         }
       ]
     },
@@ -51,6 +51,16 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "SpaceX's giant rocket may leave NASA in the dust",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
+          "description": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA's main ride to the International Space Station."
+        },
+        {
+          "title": "This week in science: PTSD prediction, phishing while tired, an exoplanet",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6031982/this-week-in-science-ptsd-prediction-phishing-while-tired-an-exoplanet",
+          "description": "The regular news roundup with NPR's science podcast Short Wave covers a possible use for AI in emergency rooms, a distant planet and the link between cybersecurity and Daylight Sav"
+        },
         {
           "title": "Scientists think they've found ancient remnants of dinosaur blood",
           "link": "https://www.npr.org/2026/11/09/nx-s1-6026704/scientists-think-theyve-found-ancient-remnants-of-dinosaur-blood",
@@ -80,16 +90,6 @@
           "title": "How octopuses squeeze through teeny tiny holes",
           "link": "https://www.npr.org/2026/11/06/nx-s1-6027897/how-octopuses-squeeze-through-teeny-tiny-holes",
           "description": "Robots used during search and rescue operations need to be able to wriggle through narrow cracks and crevices. Researchers have turned to a natural contortionist for inspiration \u2014 "
-        },
-        {
-          "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
-          "description": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species. Now, researchers and"
-        },
-        {
-          "title": "This week in science: mysterious X-rays, movement and learning, and memory formation",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6013638/this-week-in-science-mysterious-x-rays-movement-and-learning-and-memory-formation",
-          "description": "Emily Kwong and Ari Daniel of NPR's Short Wave talk about mysterious X-ray objects, the link between movement and learning and how a small part of the brain triggers memory formati"
         }
       ]
     },
@@ -97,6 +97,26 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+          "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+          "description": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreig"
+        },
+        {
+          "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+          "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+          "description": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!"
+        },
+        {
+          "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
+          "description": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That's started to change. A crackdown for some highly potent products related to kra"
+        },
+        {
+          "title": "Fed up with the healthcare industry, this red state capped insulin prices for patients",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price",
+          "description": "Republicans and Democrats in North Dakota worked together to limit what people with diabetes have to pay for insulin, joining a growing bipartisan push across the country to protec"
+        },
         {
           "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
           "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
@@ -116,26 +136,6 @@
           "title": "Why honesty is not always the best policy",
           "link": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
           "description": "Should you tell your boss she's got food on her face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth \u2014 or kee"
-        },
-        {
-          "title": "How word of mouth is helping an Amish community's fight against measles",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
-          "description": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state's Amish community, which has been hit hard by the measles outbreak."
-        },
-        {
-          "title": "How Medicaid affected one California House race",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6030983/how-medicaid-affected-one-california-house-race",
-          "description": "A Republican in California's Central Valley fended off challengers for years. But his district had a lot of people on Medicaid, and he lost by a large margin this time."
-        },
-        {
-          "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
-          "description": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems."
-        },
-        {
-          "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
-          "description": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare w"
         }
       ]
     }
