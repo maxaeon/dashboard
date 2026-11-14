@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-13T17:42:24.604514+00:00",
+  "updated": "2026-11-14T16:35:07.380875+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "The Trump administration's voter roll crusade could continue",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
-          "description": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new o"
+          "title": "Fuel crisis and protests pressure Chile's far-right president",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+          "description": "Chile's far-right President Jos\u00e9 Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country."
         },
         {
-          "title": "Does Europe regret its bet on U.S. defense?",
-          "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
-          "description": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs."
+          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+          "description": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowl"
         },
         {
-          "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
-          "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
-          "description": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreig"
+          "title": "Perspective: A new kind of White House press secretary",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
+          "description": "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?"
         },
         {
-          "title": "Remembering singer and actor Peggy King",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king",
-          "description": "King, who died Oct. 25, got her start singing in big bands in the 1950s. She had a string of hits, a contract with MGM and was a popular fixture on TV variety shows. Originally bro"
+          "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+          "description": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity i"
         },
         {
-          "title": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
-          "description": "Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manche"
+          "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+          "description": "Democrats have been given a huge opportunity with majorities in both the House and Senate \u2014 but the balance of priorities, timing, messaging and discipline are all going to be majo"
         },
         {
-          "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-          "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
-          "description": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for m"
+          "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+          "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling que"
         },
         {
-          "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
-          "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
-          "description": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!"
+          "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+          "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+          "description": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the st"
         },
         {
-          "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
-          "description": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited."
+          "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+          "description": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing."
         }
       ]
     },
@@ -51,6 +51,11 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+          "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling que"
+        },
         {
           "title": "SpaceX's giant rocket may leave NASA in the dust",
           "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
@@ -85,11 +90,6 @@
           "title": "Climate change is altering the colors we see in the world: an illustrated journey",
           "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
           "description": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature."
-        },
-        {
-          "title": "How octopuses squeeze through teeny tiny holes",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6027897/how-octopuses-squeeze-through-teeny-tiny-holes",
-          "description": "Robots used during search and rescue operations need to be able to wriggle through narrow cracks and crevices. Researchers have turned to a natural contortionist for inspiration \u2014 "
         }
       ]
     },
@@ -98,9 +98,14 @@
       "name": "Health",
       "items": [
         {
+          "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+          "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling que"
+        },
+        {
           "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
           "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
-          "description": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreig"
+          "description": "He's the ranking member of the Senate Foreign Relations Subcommittee that oversees health aid and he's just announced he's running for Majority Leader. He spoke to NPR about his fo"
         },
         {
           "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
@@ -131,11 +136,6 @@
           "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
           "link": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
           "description": "\"School Girls; Or, The African Mean Girls Play,\" is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocely"
-        },
-        {
-          "title": "Why honesty is not always the best policy",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
-          "description": "Should you tell your boss she's got food on her face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth \u2014 or kee"
         }
       ]
     }
