@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-14T16:35:07.380875+00:00",
+  "updated": "2026-11-15T17:04:54.035495+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Fuel crisis and protests pressure Chile's far-right president",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-          "description": "Chile's far-right President Jos\u00e9 Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country."
+          "title": "New Mexico wanted free childcare for all. This is what's worked \u2014 and what hasn't",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+          "description": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income."
         },
         {
-          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-          "description": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowl"
+          "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+          "description": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new lim"
         },
         {
-          "title": "Perspective: A new kind of White House press secretary",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
-          "description": "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?"
+          "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+          "description": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today."
         },
         {
-          "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-          "description": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity i"
+          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+          "description": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House."
         },
         {
-          "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-          "description": "Democrats have been given a huge opportunity with majorities in both the House and Senate \u2014 but the balance of priorities, timing, messaging and discipline are all going to be majo"
+          "title": "FAA ground stop disrupts college football",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+          "description": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, in"
         },
         {
-          "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-          "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling que"
+          "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+          "description": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year ru"
         },
         {
-          "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
-          "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
-          "description": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the st"
+          "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+          "description": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop."
         },
         {
-          "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-          "description": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing."
+          "title": "US has lost measles elimination status, global health authorities say",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+          "description": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization."
         }
       ]
     },
@@ -51,6 +51,16 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "SpaceX successfully catches Starship and makes history",
+          "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+          "description": "The company's spacecraft returned to its Texas launchpad in dramatic fashion \u2014 by carefully lowering itself until two metal arms attached to the launch tower could secure it."
+        },
+        {
+          "title": "SpaceX deploys Starlink satellites in Starship test, but booster crashes into Gulf",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6038958/spacex-deploys-starlink-satellites-in-starship-test-but-booster-crashes-into-gulf",
+          "description": "SpaceX conducted a major test of its Starship rocket Friday night. It deployed several satellites for the Starlink constellation, but there was a problem with its booster."
+        },
         {
           "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
           "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
@@ -80,16 +90,6 @@
           "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
           "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
           "description": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems."
-        },
-        {
-          "title": "NASA is looking for astronauts to live and work on the Moon",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
-          "description": "NASA needs more recruits in order to return to the moon after being gone more than half a century."
-        },
-        {
-          "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-          "description": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature."
         }
       ]
     },
@@ -97,6 +97,16 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+          "description": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today."
+        },
+        {
+          "title": "US has lost measles elimination status, global health authorities say",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+          "description": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization."
+        },
         {
           "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
           "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
@@ -126,16 +136,6 @@
           "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
           "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
           "description": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relent"
-        },
-        {
-          "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
-          "link": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room",
-          "description": "Renewed fighting has pushed Ethiopia's healthcare system close to collapse: \"The whole emergency (room) was flooded with war trauma patients,\" one surgeon says of a brutal week in "
-        },
-        {
-          "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
-          "link": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
-          "description": "\"School Girls; Or, The African Mean Girls Play,\" is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocely"
         }
       ]
     }
