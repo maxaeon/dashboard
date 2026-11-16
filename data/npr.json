@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-15T17:04:54.035495+00:00",
+  "updated": "2026-11-16T20:25:30.868845+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "New Mexico wanted free childcare for all. This is what's worked \u2014 and what hasn't",
-          "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-          "description": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income."
+          "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+          "description": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China."
         },
         {
-          "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
-          "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
-          "description": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new lim"
+          "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+          "description": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally bi"
         },
         {
-          "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
-          "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
-          "description": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today."
+          "title": "Nearly two million people are behind bars in the US. How did we get here?",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
+          "description": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America, goes inside the U.S. prison system and explores how our approach to criminals has changed over"
         },
         {
-          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-          "description": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House."
+          "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+          "description": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children."
         },
         {
-          "title": "FAA ground stop disrupts college football",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
-          "description": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, in"
+          "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+          "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+          "description": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a hi"
         },
         {
-          "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-          "description": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year ru"
+          "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
+          "description": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership."
         },
         {
-          "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
-          "description": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop."
+          "title": "Regulating AI will being a top priority for congressional Democrats in the new year",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6037801/regulating-ai-will-being-a-top-priority-for-congressional-democrats-in-the-new-year",
+          "description": "A big priority for the incoming Congress will be regulating artificial intelligence. Democrats will face stiff opposition from the Trump administration and its hands-off policy tow"
         },
         {
-          "title": "US has lost measles elimination status, global health authorities say",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
-          "description": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization."
+          "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
+          "description": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync."
         }
       ]
     },
@@ -51,6 +51,11 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+          "description": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth."
+        },
         {
           "title": "SpaceX successfully catches Starship and makes history",
           "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
@@ -85,11 +90,6 @@
           "title": "Mice can learn to fight by watching tiny rodent cage matches, study finds",
           "link": "https://www.npr.org/2026/11/09/nx-s1-6027938/mice-can-learn-to-fight-by-watching-tiny-rodent-cage-matches-study-finds",
           "description": "Brain scientists set up \"gladiator style\" cage matches for mice \u2014 and found that simply observing fighting matches can rewire a mouse's brain to resemble those who actually fought."
-        },
-        {
-          "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
-          "description": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems."
         }
       ]
     },
@@ -97,6 +97,21 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "Why sleep matters when it comes to weight gain and loss",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
+          "description": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet."
+        },
+        {
+          "title": "What's the real cost of fast fashion? Ask the people making your jeans",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+          "description": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?"
+        },
+        {
+          "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
+          "description": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat."
+        },
         {
           "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
           "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
@@ -121,21 +136,6 @@
           "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
           "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
           "description": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!"
-        },
-        {
-          "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
-          "description": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That's started to change. A crackdown for some highly potent products related to kra"
-        },
-        {
-          "title": "Fed up with the healthcare industry, this red state capped insulin prices for patients",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price",
-          "description": "Republicans and Democrats in North Dakota worked together to limit what people with diabetes have to pay for insulin, joining a growing bipartisan push across the country to protec"
-        },
-        {
-          "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
-          "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
-          "description": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relent"
         }
       ]
     }
