@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-16T20:25:30.868845+00:00",
+  "updated": "2026-11-17T19:09:46.575106+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-          "description": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China."
+          "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+          "description": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month "
         },
         {
-          "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-          "description": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally bi"
+          "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+          "description": "The former Nvidia CEO's comments come as some in Silicon Valley have tried to argue that Huang was pushed out of the company too quickly amid a swirl of national security scandals."
         },
         {
-          "title": "Nearly two million people are behind bars in the US. How did we get here?",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
-          "description": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America, goes inside the U.S. prison system and explores how our approach to criminals has changed over"
+          "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+          "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+          "description": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's"
         },
         {
-          "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
-          "description": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children."
+          "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
+          "description": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in addi"
         },
         {
-          "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
-          "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
-          "description": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a hi"
+          "title": "Can Google win the AI race without killing its cash cow?",
+          "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
+          "description": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?"
         },
         {
-          "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-          "description": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership."
+          "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+          "description": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new"
         },
         {
-          "title": "Regulating AI will being a top priority for congressional Democrats in the new year",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6037801/regulating-ai-will-being-a-top-priority-for-congressional-democrats-in-the-new-year",
-          "description": "A big priority for the incoming Congress will be regulating artificial intelligence. Democrats will face stiff opposition from the Trump administration and its hands-off policy tow"
+          "title": "Trump arrives in Philippines to kick off Asia trip",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+          "description": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian Pres"
         },
         {
-          "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
-          "description": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync."
+          "title": "She went to college to become a social worker. Now she's joined the skilled trades",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
+          "description": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgr"
         }
       ]
     },
@@ -51,6 +51,16 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+          "description": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season."
+        },
+        {
+          "title": "Brain cell mapping lays groundwork for better treatments for conditions like dementia",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6038924/brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-like-dementia",
+          "description": "A major effort from brain researchers around the world has yielded a cellular atlas of the basal ganglia \u2014 structures key to learning and controlling motor skills."
+        },
         {
           "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
           "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
@@ -80,16 +90,6 @@
           "title": "This week in science: PTSD prediction, phishing while tired, an exoplanet",
           "link": "https://www.npr.org/2026/11/12/nx-s1-6031982/this-week-in-science-ptsd-prediction-phishing-while-tired-an-exoplanet",
           "description": "The regular news roundup with NPR's science podcast Short Wave covers a possible use for AI in emergency rooms, a distant planet and the link between cybersecurity and Daylight Sav"
-        },
-        {
-          "title": "Scientists think they've found ancient remnants of dinosaur blood",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6026704/scientists-think-theyve-found-ancient-remnants-of-dinosaur-blood",
-          "description": "Scientists have studied plenty of dinosaur bones, eggs and footprints. Now, some think they've found their strongest evidence yet of dinosaur blood."
-        },
-        {
-          "title": "Mice can learn to fight by watching tiny rodent cage matches, study finds",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6027938/mice-can-learn-to-fight-by-watching-tiny-rodent-cage-matches-study-finds",
-          "description": "Brain scientists set up \"gladiator style\" cage matches for mice \u2014 and found that simply observing fighting matches can rewire a mouse's brain to resemble those who actually fought."
         }
       ]
     },
@@ -97,6 +97,21 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+          "description": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new"
+        },
+        {
+          "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+          "description": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season."
+        },
+        {
+          "title": "Health organization to announce that the U.S. has lost its measles elimination status",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6042892/health-organization-to-announce-that-the-u-s-has-lost-its-measles-elimination-status",
+          "description": "The Pan American Health Organization is expected to announce that measles is no longer eliminated in the U.S. Record cases, lower vaccination rates and uncontained outbreaks led to"
+        },
         {
           "title": "Why sleep matters when it comes to weight gain and loss",
           "link": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
@@ -121,21 +136,6 @@
           "title": "US has lost measles elimination status, global health authorities say",
           "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
           "description": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization."
-        },
-        {
-          "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-          "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling que"
-        },
-        {
-          "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
-          "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
-          "description": "He's the ranking member of the Senate Foreign Relations Subcommittee that oversees health aid and he's just announced he's running for Majority Leader. He spoke to NPR about his fo"
-        },
-        {
-          "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
-          "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
-          "description": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!"
         }
       ]
     }
