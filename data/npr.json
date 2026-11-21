@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-20T18:35:28.374790+00:00",
+  "updated": "2026-11-21T17:27:20.603373+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-          "description": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction"
+          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+          "description": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy."
         },
         {
-          "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-          "description": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling."
+          "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+          "description": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people."
         },
         {
-          "title": "How Orchestra Noir turned classical music into a cultural movement",
-          "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
-          "description": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be."
+          "title": "Perspective: Defining 'human'",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+          "description": "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?"
         },
         {
-          "title": "Trump holds press conference after meeting with Xi and Putin",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-          "description": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips."
+          "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+          "description": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil a"
         },
         {
-          "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-          "description": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year."
+          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+          "description": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the"
         },
         {
-          "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-          "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-          "description": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could be"
+          "title": "5 ways to turn off your 'work brain' after the day ends",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
+          "description": "Don't let your work troubles follow you home. Psychologist Guy Winch shares techniques to help you stop ruminating about your nine-to-five, so you can focus on what really matters."
         },
         {
-          "title": "Just how vulnerable are we to cyberattacks?",
-          "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
-          "description": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targe"
+          "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+          "description": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon."
         },
         {
-          "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-          "description": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal."
+          "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+          "description": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested."
         }
       ]
     },
@@ -51,6 +51,16 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "Scientists sequenced a whale's entire genome using drones and whale snot",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6044816/scientists-sequenced-a-whales-entire-genome-using-drones-and-whale-snot",
+          "description": "Scientists were able to sequence the entire genome of a whale using samples of its snot. They used sharp flying skills and commercial drones affixed with petri dishes to collect th"
+        },
+        {
+          "title": "New research gives insight to where your brain plans out your speech",
+          "link": "https://www.npr.org/2026/11/20/nx-s1-6047695/new-research-gives-insight-to-where-your-brain-plans-out-your-speech",
+          "description": "New research shows where this all takes place and what it means for possibly treating those who have speech difficulties."
+        },
         {
           "title": "More people are getting the flu. Should you get a flu shot before you travel?",
           "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
@@ -80,16 +90,6 @@
           "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
           "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
           "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling que"
-        },
-        {
-          "title": "SpaceX's giant rocket may leave NASA in the dust",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
-          "description": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA's main ride to the International Space Station."
-        },
-        {
-          "title": "This week in science: PTSD prediction, phishing while tired, an exoplanet",
-          "link": "https://www.npr.org/2026/11/12/nx-s1-6031982/this-week-in-science-ptsd-prediction-phishing-while-tired-an-exoplanet",
-          "description": "The regular news roundup with NPR's science podcast Short Wave covers a possible use for AI in emergency rooms, a distant planet and the link between cybersecurity and Daylight Sav"
         }
       ]
     },
@@ -97,6 +97,11 @@
       "id": "1128",
       "name": "Health",
       "items": [
+        {
+          "title": "Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles",
+          "description": "Amid ongoing measles outbreaks, Philadelphia neonatologist Joanna Parga-Belinkie talks with NPR's Scott Simon about how she keeps infants too young for the vaccine safe."
+        },
         {
           "title": "For some patients, psychedelic treatment brings new troubles in its aftermath",
           "link": "https://www.npr.org/2026/11/19/nx-s1-6043791/for-some-patients-psychedelic-treatment-brings-new-troubles-in-its-aftermath",
@@ -131,11 +136,6 @@
           "title": "Public health expert reacts to latest measles milestone",
           "link": "https://www.npr.org/2026/11/17/nx-s1-6043126/public-health-expert-reacts-to-latest-measles-milestone",
           "description": "NPR's Scott Detrow talks with Dr. Ashish Jha, senior fellow at Harvard's Belfer Center and former White House coronavirus czar, about the news that the U.S. has lost its measles el"
-        },
-        {
-          "title": "U.S. officially loses its measles elimination status",
-          "link": "https://www.npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status",
-          "description": "The Pan American Health Organization announced that measles is no longer considered eliminated in the U.S. It's classified as endemic now because a strain has lingered in the U.S. "
         }
       ]
     }
