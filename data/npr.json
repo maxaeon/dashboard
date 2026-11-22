@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-21T17:27:20.603373+00:00",
+  "updated": "2026-11-22T17:47:58.106582+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-          "description": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy."
+          "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+          "description": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked."
         },
         {
-          "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-          "description": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people."
+          "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+          "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+          "description": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids \u2014 and inspiring them to become "
         },
         {
-          "title": "Perspective: Defining 'human'",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
-          "description": "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?"
+          "title": "Climate change talks fall apart in final hours over fossil fuels",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+          "description": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global "
         },
         {
-          "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
-          "description": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil a"
+          "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+          "description": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be c"
         },
         {
-          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-          "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-          "description": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the"
+          "title": "NPR's Senior Podcast Challenge: Early entries we love",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+          "description": "People 65 and older have been submitting stories for a chance to win our grand prize \u2014 a visit to NPR watch your podcast air live on Weekend Edition. There's still time to enter!"
         },
         {
-          "title": "5 ways to turn off your 'work brain' after the day ends",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
-          "description": "Don't let your work troubles follow you home. Psychologist Guy Winch shares techniques to help you stop ruminating about your nine-to-five, so you can focus on what really matters."
+          "title": "He expected a small-business loan. He got a 7-year nightmare",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+          "description": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost."
         },
         {
-          "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
-          "description": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon."
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+          "description": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privi"
         },
         {
-          "title": "Anthropic says it will put humanity first. Will its IPO change that?",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
-          "description": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested."
+          "title": "Google employees protest AI in schools policy",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+          "description": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the "
         }
       ]
     },
@@ -98,6 +98,21 @@
       "name": "Health",
       "items": [
         {
+          "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+          "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+          "description": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids \u2014 and inspiring them to become "
+        },
+        {
+          "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+          "description": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be c"
+        },
+        {
+          "title": "Bayer reaches Roundup settlement that could cost the company billions",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+          "description": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma \u2013 a blood cancer linked to the herbicide."
+        },
+        {
           "title": "Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles",
           "link": "https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles",
           "description": "Amid ongoing measles outbreaks, Philadelphia neonatologist Joanna Parga-Belinkie talks with NPR's Scott Simon about how she keeps infants too young for the vaccine safe."
@@ -121,21 +136,6 @@
           "title": "These women are Nepal's unsung heroes: shattered by the floods yet helping survivors",
           "link": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
           "description": "The floods of August took many lives, destroyed homes, hospitals and schools. Aid workers are taking up the hard work of rebuilding communities that suffered \u2014 even though they, to"
-        },
-        {
-          "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
-          "description": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under th"
-        },
-        {
-          "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
-          "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
-          "description": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches"
-        },
-        {
-          "title": "Public health expert reacts to latest measles milestone",
-          "link": "https://www.npr.org/2026/11/17/nx-s1-6043126/public-health-expert-reacts-to-latest-measles-milestone",
-          "description": "NPR's Scott Detrow talks with Dr. Ashish Jha, senior fellow at Harvard's Belfer Center and former White House coronavirus czar, about the news that the U.S. has lost its measles el"
         }
       ]
     }
