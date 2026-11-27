@@ -1,49 +1,49 @@
 {
-  "updated": "2026-11-26T19:35:53.078278+00:00",
+  "updated": "2026-11-27T19:27:10.497307+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
         {
-          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-          "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
-          "description": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease."
+          "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+          "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+          "description": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays"
         },
         {
-          "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-          "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-          "description": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea."
+          "title": "French cinema star G\u00e9rard Depardieu ordered to stand trial for rape and sexual assault",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+          "description": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts."
         },
         {
-          "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
-          "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
-          "description": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like."
+          "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+          "description": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New Y"
         },
         {
-          "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
-          "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
-          "description": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnam"
+          "title": "Can luxury save Macy's?",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+          "description": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself \u2014 as a hi"
         },
         {
-          "title": "'Memories of a Good Meal': How food made a difference during WWII",
-          "link": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
-          "description": "New Orleans Chef Alon Shaya's new cookbook shares stories of resilience from World War II, centered around food."
+          "title": "Screen-free tweens try their hand at Dungeons & Dragons",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+          "description": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s."
         },
         {
-          "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
-          "link": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
-          "description": "NPR's Leila Fadel welcomes culinary historian Michael Twitty into her kitchen for a Thanksgiving cooking session on making Kush, the forerunner to Southern cornbread dressing."
+          "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+          "description": "Trump's sweeping immigration changes \u2014 an asylum ban, mass firings and new legal maneuvers \u2014 have all but ended asylum. The high court will soon consider whether some shifts deny p"
         },
         {
-          "title": "Court lets Puerto Rico governor fire firm that runs the island's troubled power grid",
-          "link": "https://www.npr.org/2026/11/26/nx-s1-6054139/court-rules-puerto-ricos-governor-can-fire-company-that-runs-troubled-power-grid",
-          "description": "LUMA Energy took over the electric grid five years ago. The court's ruling nullifies its contract, and gives the government a year to find a new operator."
+          "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+          "description": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to kee"
         },
         {
-          "title": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
-          "link": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
-          "description": "Extreme weather that has unleashed strong winds, high tides, heavy rain and floods is expected to impact travel plans of an estimated 81.5 million people as they travel across the "
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
+          "description": "Thanksgiving storm pummels the East Coast, Americans expected to spend record amount on Black Friday, Israeli rival factions consider deals in race to form a new government."
         }
       ]
     },
@@ -51,6 +51,16 @@
       "id": "1007",
       "name": "Science",
       "items": [
+        {
+          "title": "California voters pass billionaire's measure to bankroll his own medical lab",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6052399/california-voters-pass-billionaires-measure-to-bankroll-his-own-medical-lab",
+          "description": "California voters passed a ballot measure backed by a billionaire to fund $8.4 billion in immunology research. Half the funding will go to the research group funded by the same bil"
+        },
+        {
+          "title": "This week in science: anxiety in college students, potatoes on the moon and whale snot",
+          "link": "https://www.npr.org/2026/11/26/nx-s1-6044622/this-week-in-science-anxiety-in-college-students-potatoes-on-the-moon-and-whale-snot",
+          "description": "Science reporters Nate Rott and Sanden Totten talk about the growing risk of anxiety among college students, a simulation of growing potatoes on the Moon, and the genetic secrets i"
+        },
         {
           "title": "Invading armies, subterfuge and conquest: How fire ant wars affect ecosystems",
           "link": "https://www.npr.org/2026/11/23/nx-s1-6037814/invading-armies-subterfuge-and-conquest-how-fire-ant-wars-affect-ecosystems",
@@ -80,16 +90,6 @@
           "title": "Brain cell mapping lays groundwork for better treatments for conditions like dementia",
           "link": "https://www.npr.org/2026/11/16/nx-s1-6038924/brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-like-dementia",
           "description": "A major effort from brain researchers around the world has yielded a cellular atlas of the basal ganglia \u2014 structures key to learning and controlling motor skills."
-        },
-        {
-          "title": "Far from home, Voyager 1 will soon be a 'light-day' from Earth",
-          "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
-          "description": "NASA's Voyager 1, which is the furthest human-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth"
-        },
-        {
-          "title": "SpaceX successfully catches Starship and makes history",
-          "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
-          "description": "The company's spacecraft returned to its Texas launchpad in dramatic fashion \u2014 by carefully lowering itself until two metal arms attached to the launch tower could secure it."
         }
       ]
     },
@@ -98,12 +98,17 @@
       "name": "Health",
       "items": [
         {
+          "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+          "description": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to kee"
+        },
+        {
           "title": "Public health specialist discusses the aftermath of the munitions detonation in Iowa",
           "link": "https://www.npr.org/2026/11/26/nx-s1-6053950/public-health-specialist-discusses-the-aftermath-of-the-munitions-detonation-in-iowa",
           "description": "NPR's A Martinez speaks with public health specialist Will Sander of the University of Illinois Urbana-Champaign about the aftermath of the Iowa munitions detonation."
         },
         {
-          "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+          "title": "How American Thanksgiving took root \u2014 and evolved \u2014 in Liberia",
           "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
           "description": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving \u2014 which has evolved to reflect the history and identity of this new nation."
         },
@@ -131,11 +136,6 @@
           "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
           "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
           "description": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?"
-        },
-        {
-          "title": "Mushroom supplements promise health benefits. What does the science say?",
-          "link": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
-          "description": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links."
         }
       ]
     }
