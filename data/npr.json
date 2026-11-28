@@ -1,10 +1,40 @@
 {
-  "updated": "2026-11-27T19:27:10.497307+00:00",
+  "updated": "2026-11-28T18:13:20.257061+00:00",
   "feeds": [
     {
       "id": "1001",
       "name": "Top stories",
       "items": [
+        {
+          "title": "EPA says initial tests show no toxic lead contamination in Iowa following detonation",
+          "link": "https://www.npr.org/2026/11/28/nx-s1-6056359/epa-results-iowa-lead-testing",
+          "description": "U.S. Army officials called the controlled detonation of roughly five tons of explosive lead azide on Wednesday a success. But some have criticized the Army for a lack of transparen"
+        },
+        {
+          "title": "COP31 climate talks fail to reach an agreement on fossil fuel language",
+          "link": "https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart",
+          "description": "U.N. climate talks collapsed over whether to mention fossil fuels that cause global warning. Several countries and the E.U. would not accept a final proposal without this."
+        },
+        {
+          "title": "Perspective: A hero's name lives on",
+          "link": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
+          "description": "During Pearl Harbor, sailor Doris Miller carried the wounded to safety and fired a machine gun at Japanese planes. Next week, construction of a new aircraft carrier, the USS Doris "
+        },
+        {
+          "title": "An explosion at a school in eastern Afghanistan kills 10, wounds 110",
+          "link": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+          "description": "Local officials said the blast appeared to have originated in a neighboring depot for mining explosives."
+        },
+        {
+          "title": "New wave of Democratic attorneys general may reshape the justice system",
+          "link": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
+          "description": "The Democratic victories could have major effects for what alleged crimes are investigated, lawsuits filed and court cases heard across the U.S."
+        },
+        {
+          "title": "Sudan's lost generation: War is stealing the childhood of millions",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+          "description": "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom."
+        },
         {
           "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
           "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
@@ -14,36 +44,6 @@
           "title": "French cinema star G\u00e9rard Depardieu ordered to stand trial for rape and sexual assault",
           "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
           "description": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts."
-        },
-        {
-          "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
-          "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
-          "description": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New Y"
-        },
-        {
-          "title": "Can luxury save Macy's?",
-          "link": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
-          "description": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself \u2014 as a hi"
-        },
-        {
-          "title": "Screen-free tweens try their hand at Dungeons & Dragons",
-          "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
-          "description": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s."
-        },
-        {
-          "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
-          "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
-          "description": "Trump's sweeping immigration changes \u2014 an asylum ban, mass firings and new legal maneuvers \u2014 have all but ended asylum. The high court will soon consider whether some shifts deny p"
-        },
-        {
-          "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
-          "link": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
-          "description": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to kee"
-        },
-        {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
-          "description": "Thanksgiving storm pummels the East Coast, Americans expected to spend record amount on Black Friday, Israeli rival factions consider deals in race to form a new government."
         }
       ]
     },
